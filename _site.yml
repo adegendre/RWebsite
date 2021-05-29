@@ -1,5 +1,6 @@
 # Site settings
-name:           "adegendre.github.io"
+name:           "Alexandra de Gendre"
+output_dir: "."
 description:    "Postdoctoral Research Fellow in Economics, The University of Sydney"
 url:            "https://adegendre.github.io"
 
@@ -32,5 +33,6 @@ navbar:
 # Shared appearance for all pages of the site
 output:
   html_document:
-    theme: default
+    theme: paper
+    css: 'styles.css'
     
