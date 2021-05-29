@@ -19,7 +19,9 @@ navbar:
       href: files/AdG_CV.pdf
   right: 
     - icon: fa-envelope fa-lg
-      href: mailto:<adg578@pm.me>
+      href: mailto:<alexandra.degendre@sydney.edu.au>
+    - icon: fas fa-video
+      href: https://uni-sydney.zoom.us/my/adegendre
     - icon: fab fa-twitter
       href: http://twitter.com/adegendre/
     - icon: fab fa-github
