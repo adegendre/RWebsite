@@ -1,0 +1,19 @@
+---
+title: "Welcome to my website!"
+---
+
+<img src="files/AdG_ID.jpg" style="width:20%">
+
+I am a Postdoctoral Research Fellow in economics at <a href="https://www.sydney.edu.au/arts/schools/school-of-economics.html" target="_blank">the University of Sydney</a> and I work with <a href="http://www.stefanie-schurer.com" target="_blank">Prof. Stefanie Schurer</a>. I received my PhD in Economics from Maastricht University in the Netherlands in March 2021, where I was supervised by <a href="https://sites.google.com/site/oliviermarie/" target="_blank">Prof. Olivier Marie</a>.   
+
+My research focuses on two aspects of human capital formation. First, I study how students, parents and teachers form expectations, and how expectations affect educational outcomes and choices. In this first research agenda, I use administrative data and survey data from various settings. Second, I study how welfare policies affect parental investments in early child human capital, using linked administrative data from Australia.  
+
+During my PhD, I have visited the <a href="https://melbourneinstitute.unimelb.edu.au/home#home" target="_blank">Melbourne Institute</a> at The University of Melbourne from March 2018 to March 2019, <a href="https://www.iza.org" target="_blank">IZA</a> in April 2019, and the <a href="https://www.jacobscenter.uzh.ch/en.html" target="_blank">Jacobs Centre</a> and the Department of Economics at the University of Zurich from May to October 2019.  
+
+I am a Research Affiliate at IZA since July 2018, and a Research Affiliate at the <a href="https://www.lifecoursecentre.org.au" target="_blank">ARC Centre of Excellence for Children and Families over the Life Course (LCC)</a> since May 2018.  
+
+
+News 
+======
+
+- New working paper available: [On the Mechanisms of Ability Peer Effects](http://ftp.iza.org/dp13938.pdf), with <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">Nicol&aacute;s Salamanca</a>.  

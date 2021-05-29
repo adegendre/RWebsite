@@ -1,0 +1,36 @@
+# Site settings
+name:           "adegendre.github.io"
+description:    "Postdoctoral Research Fellow in Economics, The University of Sydney"
+url:            "https://adegendre.github.io"
+
+navbar:
+  title: "Alexandra de Gendre"
+  left:
+    - text: "About"
+      href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "Talks"
+      href: talks.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "CV"
+      href: files/AdG_CV.pdf
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<adg578@pm.me>
+    - icon: fab fa-twitter
+      href: http://twitter.com/adegendre/
+    - icon: fab fa-github
+      href: http://github.com/adegendre/
+    - text: iD
+      icon: fa-orcid
+      href: https://orcid.org/0000-0001-6409-1982
+    - icon: fas fa-graduation-cap
+      href: https://scholar.google.com/citations?hl=en&user=3A-i5UUAAAAJ
+
+# Shared appearance for all pages of the site
+output:
+  html_document:
+    theme: default
+    
