@@ -3,18 +3,22 @@ title: "Research"
 ---
 
 
-Working Papers & Under Review
+Under Review
 ======
 
-- On the Mechanisms of Ability Peer Effects (**under review**), with <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">N. Salamanca</a>.
+[1] On the Mechanisms of Ability Peer Effects, with <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">N. Salamanca</a>.
+------
 
-We study the effects of higher-achieving peers on standardized test scores and several mechanisms, in a setting where students are randomly assigned to classrooms within schools.
+Description: We study the effects of higher-achieving peers on standardized test scores and several mechanisms, in a setting where students are randomly assigned to classrooms within schools.
 
-Working Paper: <a href="https://melbourneinstitute.unimelb.edu.au/__data/assets/pdf_file/0005/3505685/wp2020n19.pdf" target="_blank">Melbourne Institute Working Paper No. 19/20 (October 2020)</a>, <a href="http://ftp.iza.org/dp13938.pdf" target="_blank">IZA Discussion Paper No. 13938 (December 2020)</a>.
+Working Paper: 
+* <a href="https://melbourneinstitute.unimelb.edu.au/__data/assets/pdf_file/0005/3505685/wp2020n19.pdf" target="_blank">Melbourne Institute Working Paper No. 19/20 (October 2020)</a>
+* <a href="http://ftp.iza.org/dp13938.pdf" target="_blank">IZA Discussion Paper No. 13938 (December 2020)</a>.
 
-- Child Health and Parental Responses to an Unconditional Cash Transfer at Birth (**under review**), with J. Lynch, A. Meunier, R. Pilkington, and <a href="http://www.stefanie-schurer.com" target="_blank">S. Schurer</a>.
+[2] Child Health and Parental Responses to an Unconditional Cash Transfer at Birth, with J. Lynch, A. Meunier, R. Pilkington, and <a href="http://www.stefanie-schurer.com" target="_blank">S. Schurer</a>.
+------
 
-We estimate the effect of an unconditional cash transfer on early life health outcomes and health care utilization of children within their first year of life, using administrative data from South Australia.
+Description: We estimate the effect of an unconditional cash transfer on early life health outcomes and health care utilization of children within their first year of life, using administrative data from South Australia.
 
 Working paper coming soon. 
 
@@ -23,20 +27,13 @@ Working paper coming soon.
 Ongoing Projects
 ======
 
-- Class Rank and Sibling Spillover Effects.
+* [1] Class Rank and Sibling Spillover Effects
+  + Description: I present new evidence of sibling spillover effects in education, and highlight new mechanisms through which sibling spillover effects operate using administrative data from the Netherlands.
+  + Status: Draft in preparation.
+* [2] The Hidden Cost of Policy Uncertainty: Students Avoid College-Preparing Tracks when Financial Aid Becomes Uncertain, with J. Kabátek.
+  + Description: We study the effects of policy announcements about financial aid on students' high school tracks and dropout, using administrative data from the Netherlands.
+  + Status: Draft in preparation. 
+* [3] Quantifying Aspirational Poverty Traps, with <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">N. Salamanca</a>.
+  + Description: We propose a simple methodology to estimate the size and location in the population of aspirational poverty traps.
+  + Status: Draft in preparation. 
 
-I present new evidence of sibling spillover effects in education, and highlight new mechanisms through which sibling spillover effects operate using administrative data from the Netherlands.
-
-Draft in preparation.
-
-- The Hidden Cost of Policy Uncertainty: Students Avoid College-Preparing Tracks when Financial Aid Becomes Uncertain, with J. Kabátek.
-
-We study the effects of policy announcements about financial aid on students' high school tracks and dropout, using administrative data from the Netherlands.
-
-Draft in preparation. 
-
-- Quantifying Aspirational Poverty Traps, with <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">N. Salamanca</a>.
-
-We propose a simple methodology to estimate the size and location in the population of aspirational poverty traps.
-
-Draft in preparation. 
