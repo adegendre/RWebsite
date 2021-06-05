@@ -13,7 +13,15 @@ During my PhD, I have visited the <a href="https://melbourneinstitute.unimelb.ed
 I am a Research Affiliate at IZA since July 2018, and a Research Affiliate at the <a href="https://www.lifecoursecentre.org.au" target="_blank">ARC Centre of Excellence for Children and Families over the Life Course (LCC)</a> since May 2018.  
 
 
-News 
-======
+
+
+### News 
+
 
 - New working paper available: [On the Mechanisms of Ability Peer Effects](http://ftp.iza.org/dp13938.pdf), with <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">Nicol&aacute;s Salamanca</a>.  
+
+
+<!--
+Add separation here between body and footer
+-->
+---

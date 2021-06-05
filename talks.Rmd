@@ -2,23 +2,20 @@
 title: "Talks"
 ---
 
-2021
-======
+### 2021
 
-03 June 2021 - Swedish Institute for Social Research (SOFI) Seminar - Stockholm University (scheduled)\
+03 June 2021 - Swedish Institute for Social Research (SOFI) Seminar - Stockholm University\
 17-19 June 2021 - European Society for Population Economics (ESPE) (scheduled)\
 21-22 June 2021 - Eleventh International Workshop on Applied Economics of Education (IWAEE) (scheduled)\
 25 June 2021 - The University of Sydney MPP Seminar (scheduled)\
 28 June-2 July 2021 - HCEO-NES-CREC Virtual Summer School on Socioeconomic Inequality 2021 (scheduled)\
 16-18 Sept 2021 - European Society of Labour Economics (EALE) (scheduled)
 
-2020
-======
+### 2020
 
 The University of Sydney MPP Seminar
 
-2019
-======
+### 2019
 
 2nd IZA/Briq Workshop: Behavioral Economics of Education\
 University College Dublin Brown Bag Seminar\
@@ -26,8 +23,7 @@ European University Institute on The Effectiveness of Children’s Education Aro
 International Workshop on Applied Economics of Education (IWAEE)\
 6th PhD Workshop in Empirical Economics, the University of Potsdam
 
-2018
-======
+### 2018
 
 3rd IZA Workshop: The Economics of Education\
 University of Melbourne Applied Micro Brewery Workshop\
@@ -39,18 +35,23 @@ European Society for Population Economics (ESPE)\
 IZA World Labor Conference\
 21st Labour Econometrics Workshop (LEW)
 
-2017
-======
+### 2017
 
 Victoria University of Wellington (New Zealand) Brown Bag\
 International Workshop on Applied Economics of Education (IWAEE)\
 European Society for Population Economics (ESPE)\
 European Economic Association - Econometric Society Joint Congress (EEA-ESEM)
 
-2016
-======
+### 2016
 
 Melbourne Institute Brown Bag\
 Maastricht DUHR Seminar Series\
 DynIPer Conference\
 Berlin Interdisciplinary Education Network Conference (BeNA)
+
+
+<!--
+Add separation here between body and footer
+-->
+---
+
