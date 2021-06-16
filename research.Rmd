@@ -2,39 +2,47 @@
 title: "Research"
 ---
 
+### Job Market Paper: *Class Rank and Sibling Spillover Effects*
 
-### Under Review
+*Abstract*: Siblings are perhaps the most important childhood peers, yet we know little about sibling spillover effects on school achievement and their potential mechanisms. I estimate the effect of children’s rank in primary school on their younger sibling’s schooling outcomes using administrative records from the Netherlands. In this setting, variation in sibling rank is credibly exogenous and isolates sibling spillovers driven by behavioral and psychological mechanisms, as opposed to direct transmission of human capital. A 1SD increase in child rank in test scores increases their younger sibling’s test scores by 4.3 percent of a standard deviation, showing that behavioral mechanisms in sibling spillovers are empirically relevant. Child rank also increases the chance that their sibling is recommended for the academic school track by 5 percent, even after accounting for younger sibling’s test scores. This recommendation is given exclusively by teachers, suggesting that teachers track children based on arguably meaningless information on their siblings. I argue that this is a form of teacher bias in expectation formation and show that it only occurs for non-migrant children. This points towards cultural proximity as an important factor in the formation of biased expectations, widening achievement gaps between migrant and non-migrant children. Overall, my findings show that school inputs can be important drivers of within-family human capital spillovers.
 
-* [1] On the Mechanisms of Ability Peer Effects, with <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">N. Salamanca</a>.
-  + Description: We study the effects of higher-achieving peers on standardized test scores and several mechanisms, in a setting where students are randomly assigned to classrooms within schools.
-  + Working Paper: 
+<br>
+
+### Submitted and Under Review
+
+* [1] *On the Mechanisms of Ability Peer Effects*, with <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">Nicolás Salamanca</a>.
+  + *Abstract*: Studying with higher ability peers increases student performance, yet we have little idea why. We exploit mandated random assignment of students to classrooms and find positive peer effects on test scores. With rich data on nineteen potential mechanisms, we then estimate how effects on attitudes, parents, and teachers could drive these results. Higher-achieving peers reduce student effort, increase student university aspirations, increase parental time investments and parental strictness, and have precise null effects elsewhere. None of these mechanisms, however, explain our peer effect on test scores. Our novel method to detect cluster violations of random assignment is of independent interest.
+  + *Working Paper*: 
       + <a href="https://melbourneinstitute.unimelb.edu.au/__data/assets/pdf_file/0005/3505685/wp2020n19.pdf" target="_blank">Melbourne Institute Working Paper No. 19/20 (October 2020)</a>
       + <a href="http://ftp.iza.org/dp13938.pdf" target="_blank">IZA Discussion Paper No. 13938 (December 2020)</a>.
 
+<br>
 
-* [2] Child Health and Parental Responses to an Unconditional Cash Transfer at Birth, with J. Lynch, A. Meunier, R. Pilkington, and <a href="http://www.stefanie-schurer.com" target="_blank">S. Schurer</a>.
-  + Description: We estimate the effect of an unconditional cash transfer on early life health outcomes and health care utilization of children within their first year of life, using administrative data from South Australia.
-  + Working paper coming soon. 
+* [2] *Child Health and Parental Responses to an Unconditional Cash Transfer at Birth*, with John Lynch, Aurélie Meunier, Rhiannon Pilkington, and <a href="http://www.stefanie-schurer.com" target="_blank">Stefanie Schurer</a>.
+  + *Abstract*: We estimate the impact on child health of the unanticipated introduction of the Australian Baby Bonus, a \$3,000 one-off unconditional cash transfer at birth. Using regression discontinuity methods and linked administrative data from South Australia, we find that treated babies had fewer preventable, acute, and urgent hospital presentations—medical care available without co-payments—in the first two years of life. The payment later increased demand for elective care, which requires planning, medical referrals, and often co-payments. Our effects are strongest for disadvantaged families. Our findings suggest that up to 34\% of the payout were recouped within the first year.
+  + *Working paper*: Coming soon. 
 
-
+<br>
 
 ### Ongoing Projects
 
-* [1] Class Rank and Sibling Spillover Effects
-  + Description: I present new evidence of sibling spillover effects in education, and highlight new mechanisms through which sibling spillover effects operate using administrative data from the Netherlands.
-  + Status: Draft in preparation.
-  
-  
-* [2] The Hidden Cost of Policy Uncertainty: Students Avoid College-Preparing Tracks when Financial Aid Becomes Uncertain, with J. Kabátek.
-  + Description: We study the effects of policy announcements about financial aid on students' high school tracks and dropout, using administrative data from the Netherlands.
+
+* [1] *The Hidden Cost of Policy Uncertainty: Students Avoid College-Preparing Tracks when Financial Aid Becomes Uncertain*, with <a href="https://www.jankabatek.com" target="_blank">Jan Kabátek</a>.
+  + *Abstract*: We analyse the effects of a national reform of higher education financing on the decision making of secondary school students in the Netherlands. The reform eliminated a universal subsidy for higher education students and replaced it by a low-interest loan, causing a substantive increase in the private costs of higher education. We show that the reform had a large impact on students’ decision making, decreasing the share of secondary school students following college-preparing tracks by 6.8 percentage points. The reform also affected students’ subject specialization choices, and the living arrangements of new college entrants.  We show that secondary school students respond to the costs of higher education well ahead of their graduation, which has important consequences for the design of empirical studies of higher education financing. It also shows that policy uncertainty regarding financial aid is sufficient to deter many students from pursuing higher education.  
+  + *Working Paper*: Coming soon. 
+
+<br>
+
+* [2] *Quantifying Aspirational Poverty Traps*, with <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">Nicolás Salamanca</a>.
+  + Description: We propose a simple methodology based on a microeconomic model of human capital investment with goals and threshold regression methods to estimate the size and location in the population of aspirational poverty traps. We apply our methodology to the United States using the NLSY79 and find that 5.5 to 7% of the population, around the 37th percentile of wealth, could be located in such poverty traps. 
   + Status: Draft in preparation. 
   
-  
-* [3] Quantifying Aspirational Poverty Traps, with <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">N. Salamanca</a>.
-  + Description: We propose a simple methodology to estimate the size and location in the population of aspirational poverty traps.
-  + Status: Draft in preparation. 
+
 
 <!--
 Add separation here between body and footer
 -->
+
+<br>
+
 ---

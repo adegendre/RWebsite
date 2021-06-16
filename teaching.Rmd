@@ -4,12 +4,12 @@ title: "Teaching"
 
 ### Maastricht University
 
-
 - Personnel Economics (Undergraduate) - 2015-2018
     - Course coordinator: Dr. Steffen Künn
     - Duties: teaching, grading, contributing to curriculum design
     - My teaching evaluation: 9.3 / 10 (N=70)
 
+<br>
 
 - Behavioral Economics (Graduate) - 2015-2017
     - Course coordinator: Prof. Dr. Thomas Dohmen
@@ -20,4 +20,7 @@ title: "Teaching"
 <!--
 Add separation here between body and footer
 -->
+
+<br>
+
 ---
