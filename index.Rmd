@@ -6,9 +6,9 @@ title: "Welcome to my website!"
 
 <br>
 
-I am a Postdoctoral Research fellow in Economics at <a href="https://www.sydney.edu.au/arts/schools/school-of-economics.html" target="_blank">the University of Sydney</a> and I work with <a href="http://www.stefanie-schurer.com" target="_blank">Prof. Stefanie Schurer</a>. I received my PhD in Economics from Maastricht University in the Netherlands in March 2021, where I was supervised by <a href="https://sites.google.com/site/oliviermarie/" target="_blank">Prof. Olivier Marie</a>.   
+I am a Postdoctoral Research Associate in Economics at <a href="https://www.sydney.edu.au/arts/schools/school-of-economics.html" target="_blank">the University of Sydney</a> and I work with <a href="http://www.stefanie-schurer.com" target="_blank">Prof. Stefanie Schurer</a>. I received my PhD in Economics from Maastricht University in the Netherlands in March 2021, where I was supervised by <a href="https://sites.google.com/site/oliviermarie/" target="_blank">Prof. Olivier Marie</a>.   
 
-My research focuses on human capital formation and applied micro-econometrics. I am interested in how students, parents and teachers interact in the school system and the welfare system, and how this ultimately affects children's educational outcomes. I use administrative data and survey data from various settings, natural experiments and quasi-experimental methods.  
+My research focuses on human capital formation and applied micro-econometrics. I am interested in how chldren and their parents interact with the school system (through teachers and schools), and other public services (health, social security), and how these interactions ultimately explain patterns of socioeconomic disadvantage. I use administrative data and survey data from various settings, natural experiments and quasi-experimental methods.  
 
 During my PhD, I have visited the <a href="https://melbourneinstitute.unimelb.edu.au/home#home" target="_blank">Melbourne Institute</a> at The University of Melbourne from March 2018 to March 2019, <a href="https://www.iza.org" target="_blank">IZA</a> in April 2019, and the <a href="https://www.jacobscenter.uzh.ch/en.html" target="_blank">Jacobs Centre</a> and the Department of Economics at the University of Zurich from May to October 2019.  
 
