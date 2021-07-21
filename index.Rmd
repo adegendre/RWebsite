@@ -2,11 +2,11 @@
 title: "Welcome to my website!"
 ---
 
-<img src="files/AdG_ID.jpg" style="width:20%; border-radius: 50%">
+<img src="files/AdG_ID.jpg" style="width:20%">
 
 <br>
 
-I am an academic economist interested in human capital formation and applied micro-econometrics. My research focuses on how children and their parents interact with the school system, and how these interactions contribute to socioeconomic disadvantage. I use administrative data and survey data from various settings, and quasi-experimental methods.\  
+I am an academic economist interested in the **economics of education** and **applied micro-econometrics**. My research focuses broadly on the **causes and consequences of socioeconomic disadvantage in education**, especially on **parental engagement** and **social interactions in schools**. In my research I develop and apply econometrics procedures for causal inference and policy evaluation. I use these methods in my research with administrative and survey data from Australia, Taiwan, the Netherlands, Spain and the United States.\  
 
 I received my Ph.D. in Economics from Maastricht University in the Netherlands in March 2021, where I was supervised by <a href="https://sites.google.com/site/oliviermarie/" target="_blank">Prof. Olivier Marie</a>. Before my PhD, I received a M.Sc. degree in Statistics from <a href="http://ensai.fr/en/" target="_blank">Ensai</a> in France, and a dual M.Sc. in Economics from <a href="https://www.wiwi.hu-berlin.de/en/mainpage" target="_blank">Humboldt University</a> in Germany.\ 
 
