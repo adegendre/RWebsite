@@ -2,19 +2,35 @@
 title: "Teaching"
 ---
 
-### Maastricht University
+### University of Sydney, Australia
 
-- Personnel Economics (Undergraduate) - 2015-2018
+- Honours/Master student co-supervision (Semester 2 2020)
+    - 3 honours students, 1 master student
+    - Duties: weekly supervision group meetings, designed and delivered a Coding Camp, feedback on theses
+
+<br>
+
+### Maastricht University, Netherlands
+
+- Tutor in Behavioral Economics (2015, 2016)
+    - Graduate course
+    - Course coordinator: Prof. Dr. Thomas Dohmen
+    - Duties: teaching, grading, contributing to curriculum design
+    - Teaching evaluation: 8.8 / 10  (N=21)
+	
+<br>
+
+- Tutor in Personnel Economics (2015, 2016, 2017)
+    - Undergraduate course
     - Course coordinator: Dr. Steffen Künn
     - Duties: teaching, grading, contributing to curriculum design
     - My teaching evaluation: 9.3 / 10 (N=70)
 
 <br>
 
-- Behavioral Economics (Graduate) - 2015-2017
-    - Course coordinator: Prof. Dr. Thomas Dohmen
-    - Duties: teaching, grading, contributing to curriculum design
-    - My teaching evaluation: 8.8 / 10 (N=21)
+- Tutor for Presentation Skills (2015)
+    - Undergraduate course
+    - Student evaluation: 8.7/10 
     
 
 <!--

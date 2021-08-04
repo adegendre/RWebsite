@@ -2,53 +2,58 @@
 title: "Talks"
 ---
 
+### 2022
+
+Jan-22	AEA/ASSA Conference	(scheduled)
+
 ### 2021
 
-03 June 2021 - Swedish Institute for Social Research (SOFI) Seminar - Stockholm University\
-17-19 June 2021 - European Society for Population Economics (ESPE)\
-21-22 June 2021 - Eleventh International Workshop on Applied Economics of Education (IWAEE)\
-25 June 2021 - The University of Sydney MPP Seminar\
-28 June-2 July 2021 - HCEO-NES-CREC Virtual Summer School on Socioeconomic Inequality 2021\
-26-27 August 2021 - 23rd Labour Econometrics Workshop (LEW)\
-16-18 Sept 2021 - European Society of Labour Economics (EALE)
+Sep-21	Annual Conference of the European Society of Labour Economics (EALE) (scheduled)	\
+Aug-21	23rd Australia/New Zealand Labour Econometrics Workshop (LEW)	(scheduled) \
+Jun-21	HCEO-NES Online Summer School on Socioeconomic Inequality 2021	\
+Jun-21	The University of Sydney MPP Seminar Series	\
+Jun-21	11th International Workshop on Applied Economics of Education (IWAEE)	\
+Jun-21	34th Annual Meeting of the European Society of Population Economics	\
+Jun-21	Swedish Institute for Social Research Seminar Series (SOFI, Stockholm University)
 
 ### 2020
 
-The University of Sydney MPP Seminar
+Nov-20	The University of Sydney MPP Seminar Series
 
 ### 2019
 
-2nd IZA/Briq Workshop: Behavioral Economics of Education\
-University College Dublin Brown Bag Seminar\
-European University Institute on The Effectiveness of Children’s Education Around the Globe\
-International Workshop on Applied Economics of Education (IWAEE)\
-6th PhD Workshop in Empirical Economics, the University of Potsdam
+Sep-19	University of Potsdam 6th PhD Workshop in Empirical Economics	\
+Jun-19	10th International Workshop on Applied Economics of Education (IWAEE)	\
+May-19	Workshop on The Effectiveness of Children's Education Around the Globe, European University Institute	\
+May-19	University College Dublin Seminar Series	\
+Apr-19	2nd IZA/Briq Behavioral Economics of Education Workshop
 
 ### 2018
 
-3rd IZA Workshop: The Economics of Education\
-University of Melbourne Applied Micro Brewery Workshop\
-University of Melbourne Brown Bag Seminar\
-RMIT University Brown Bag Seminar\
-International Workshop on Applied Economics of Education (IWAEE)\
-European Society for Population Economics (ESPE)\
-21st IZA Summer School in Labor Economics\
-IZA World Labor Conference\
-21st Labour Econometrics Workshop (LEW)
+Oct-18	3rd IZA Economics of Education Workshop	\
+Oct-18	Applied Micro Workshop of the Department of Economics, The University of Melbourne	\
+Aug-18	21st Labor Econometrics Workshop	\
+Jun-18	9th International Workshop on Applied Economics of Education (IWAEE)	\
+Jun-18	32nd Annual Meeting of the European Society of Population Economics	\
+Jun-18	IZA World Labor Conference	\
+May-18	IZA 21st Summer School in Labor Economics	\
+Apr-18	University of Melbourne Department of Economics Seminar Series	\
+Apr-18	RMIT Seminar Series
 
 ### 2017
 
-Victoria University of Wellington (New Zealand) Brown Bag\
-International Workshop on Applied Economics of Education (IWAEE)\
-European Society for Population Economics (ESPE)\
-European Economic Association - Econometric Society Joint Congress (EEA-ESEM)
+Dec-17	Maastricht University School of Economics	\
+Oct-17	Victoria University at Wellington Seminar Series	\
+Aug-17	32nd Annual Congress of the European Economic Association and 70th European Meeting of the Econometric Society	\
+Jun-17	8th International Workshop on Applied Economics of Education (IWAEE)	\
+Jun-17	European Society of Population Economics
 
 ### 2016
 
-Melbourne Institute Brown Bag\
-Maastricht DUHR Seminar Series\
-DynIPer Conference\
-Berlin Interdisciplinary Education Network Conference (BeNA)
+Dec-16	Maastricht University DUHR Seminar Series	\
+Oct-16	Melbourne Institute Seminar Series	\
+Sep-16	3rd Annual Meeting of the Berlin Interdisciplinary Education Network	\
+May-16	Dynamics of Inequalities and their Perceptions, Aix-Marseille Université
 
 
 <!--
