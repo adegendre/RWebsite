@@ -1,3 +1,4 @@
+---
 # Site settings
 name:           "Alexandra de Gendre"
 output_dir: "."
@@ -7,8 +8,6 @@ url:            "https://adegendre.github.io"
 navbar:
   title: "Alexandra de Gendre"
   left:
-    - text: "About"
-      href: index.html
     - text: "Research"
       href: research.html
     - text: "Talks"
@@ -33,8 +32,9 @@ navbar:
 # Shared appearance for all pages of the site
 output:
   html_document:
-    theme: paper
+    theme: spacelab
+    highlight: tango
     include:
       after_body: footer.html
     css: style.css
-    
+---

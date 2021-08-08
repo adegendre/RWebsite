@@ -1,49 +1,111 @@
-<style>
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@200;300;600&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Muli:400,400i,700&display=swap');
 
-h1 {
-  font-size: 32px;
+
+ /*------------- Body ---------------- */
+
+body {
+  font-family: 'Assistant';
+  font-size: 1.6em;
+  text-align: justify;
 }
 
-h1.title {
-  font-size: 32px;
+
+/*----------------- links ---------------------*/
+
+a { 
+  color: #4e89bf;
 }
 
-h2 {
-  font-size: 28px;
+a:hover {
+  color: #396892; /* darker color when hovering */
 }
 
-h3 {
-  font-size: 20px;
-  font-style: italic;
-  font-weight: 100;
+
+/*---------------- spacing -------------*/
+
+.title {
+  margin-top: 1em !important;
+  margin-bottom: 1em;
 }
 
-h4 {
-  font-size: 20px;
+.section h1 {
+  margin-top: 2.5em !important;
+  margin-bottom: 1.75em;
 }
 
-h5 {
+.section h2 { 
+  padding-top: 2.5em !important;
+  margin-bottom: 1em;
+}
+
+.section h3 { 
+  padding-top: 3.5em !important;
+  margin-bottom: 1em;
+}
+
+.section h4, .section h5 { 
+  padding-top: 2.5em !important;
+  margin-bottom: 1em;
+}
+
+/* Space Between TOC and Righthand side content on large screens */
+
+ @media (min-width: 992px) {
+    .col-md-9 {
+      width: 75%;
+      padding-left: 5em !important;
+    }
+ }
+
+/* Remove excessive white space at the end of page */
+
+.tocify-extend-page {
+  height: 100px !important; 
+}
+
+/*------------Table of Contents (TOC)----------- */
+
+.tocify {
+  border: none;   /*Removes border */
+  border-radius: 0px; /* Gets rid of rounded corners on TOC */
   font-size: 16px;
 }
 
-h6 {
-  font-size: 12px;
+.tocify ul, .tocify li { /* Increases spacing between TOC headers*/
+    line-height: 25px;
 }
 
+.tocify ul {
+  border-right: none; /* Thin right border on TOC list */
+}
+
+/* Active TOC links*/
+
+.list-group-item.active, .list-group-item.active:hover{
+  color: #4e89bf; 
+  background-color: #ffffff;
+  border-color: #ccc;
+  font-style: italic;
+}
+
+/* Hovered TOC links*/
+
+.list-group-item:hover { 
+  color: #396892;
+  background-color: #ffffff;
+  border: none;
+}
+
+
+/*------------ Images ----------- */
+
 img {
-    display: block;
-    margin: auto;
+  display: block;
+  margin: 0 auto;
 }
 
 img-circle {
-    border-radius: 50%;
+  border-radius: 50%;
 }
-
-blockquote {
-  font-style: italic
-}
-
-
-</style>
-
 
