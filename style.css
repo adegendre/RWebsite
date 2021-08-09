@@ -118,6 +118,7 @@ img-circle {
 /* don't show mobile code on big screens */
 .collapse-abstract{
      display: none;
+     margin: 1em;
 }
 
 /* only apply css for smaller than 600px screens */
@@ -125,7 +126,7 @@ img-circle {
     .bigScreen{
          display: none;
      }
-     .collapse-header{
+     .collapse-abstract{
          display: block;
      }
 }
