@@ -112,3 +112,20 @@ img-circle {
   border-radius: 50%;
 }
 
+
+/*------------ Accordions ----------- */
+
+/* don't show mobile code on big screens */
+.collapse-abstract{
+     display: none;
+}
+
+/* only apply css for smaller than 600px screens */
+@media only screen and (max-width: 600px){
+    .bigScreen{
+         display: none;
+     }
+     .collapse-header{
+         display: block;
+     }
+}
