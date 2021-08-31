@@ -71,7 +71,8 @@ output:
 * [3] **From Subsidies to Loans: The Effects of a National Student Finance Reform on the Choices of Secondary School Students**, with <a href="https://www.jankabatek.com" target="_blank">Jan Kabátek</a>.
   + **Working Paper**: 
       + <a href="https://melbourneinstitute.unimelb.edu.au/__data/assets/pdf_file/0007/3854527/wp2021n12.pdf" target="_blank">Melbourne Institute Working Paper No. 12/21 (July 2021)</a>
-  
+      + <a href="https://ftp.iza.org/dp14686.pdf" target="_blank">IZA Discussion Paper No. 14686 (August 2021)</a>
+
 <!-- mobile code --> 
 <details class="collapse-abstract">
   <summary>Abstract</summary>
