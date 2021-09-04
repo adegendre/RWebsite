@@ -7,13 +7,12 @@ output:
     toc_depth: 3
 ---
 
+## Job-Market Paper
 
-## Job-Market Paper 
-
-#### Class Rank and Sibling Spillover Effects 
+**Class Rank and Sibling Spillover Effects** 
 
 <!-- mobile code --> 
-<details class="collapse-abstract">
+<details class="collapse-abstract-featured">
   <summary>Abstract</summary>
   <p>Siblings are perhaps the most important childhood peers, yet we know little about sibling spillover effects on school achievement and their potential mechanisms. I estimate the effect of children’s rank in primary school on their younger sibling’s schooling outcomes using administrative records from the Netherlands. In this setting, variation in sibling rank is credibly exogenous and isolates sibling spillovers driven by behavioral and psychological mechanisms, as opposed to direct transmission of human capital. A 1SD increase in child rank in test scores decreases their younger sibling’s test scores by 2.2 percent of a standard deviation, showing that behavioral mechanisms in sibling spillovers are empirically relevant. Child rank also increases the chance that their sibling is recommended for the vocational school track by 5 percent, even after accounting for younger sibling’s test scores. This recommendation is given exclusively by teachers, suggesting that teachers track children based on arguably meaningless information on their siblings. I argue that this is a form of teacher bias in expectation formation and show that it occurs mostly for non-migrant children. This points towards cultural proximity as an important factor in the formation of biased expectations, widening achievement gaps between migrant and non-migrant children. Overall, my findings show that school inputs can be important drivers of within-family human capital spillovers.</p>
 </details> 
@@ -29,10 +28,10 @@ output:
 
 ## Submitted and Under Review
 
-* [1] **On the Mechanisms of Ability Peer Effects**, with <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">Nicolás Salamanca</a>.
+* [1] **On the Mechanisms of Ability Peer Effects**, with <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">Nicolás Salamanca</a>.\
   + **Working Paper**: 
-      + <a href="https://melbourneinstitute.unimelb.edu.au/__data/assets/pdf_file/0005/3505685/wp2020n19.pdf" target="_blank">Melbourne Institute Working Paper No. 19/20 (October 2020)</a>
-      + <a href="http://ftp.iza.org/dp13938.pdf" target="_blank">IZA Discussion Paper No. 13938 (December 2020)</a>.
+    + <a href="https://melbourneinstitute.unimelb.edu.au/__data/assets/pdf_file/0005/3505685/wp2020n19.pdf" target="_blank">Melbourne Institute Working Paper No. 19/20 (October 2020)</a>
+    + <a href="http://ftp.iza.org/dp13938.pdf" target="_blank">IZA Discussion Paper No. 13938 (December 2020)</a>.
       
 <!-- mobile code --> 
 <details class="collapse-abstract">
@@ -49,9 +48,8 @@ output:
 
 <br>
 
-* [2] **Child Health and Parental Responses to an Unconditional Cash Transfer at Birth**, with John Lynch, Aurélie Meunier, Rhiannon Pilkington, and <a href="http://www.stefanie-schurer.com" target="_blank">Stefanie Schurer</a>.
-  + **Draft**: Available <a href="https://www.dropbox.com/s/3y0fr582zjhykct/de%20Gendre%20Lynch%20Meunier%20Pilkington%20Schurer%20Child%20Health%20and%20Parental%20Responses%20to%20An%20Unconditional%20Cash%20Transfer%20At%20Birth%20May%202021.pdf?dl=0" target="_blank">here</a>.
-  + **Working Paper**: Coming soon. 
+* [2] **Child Health and Parental Responses to an Unconditional Cash Transfer at Birth**, with John Lynch, Aurélie Meunier, Rhiannon Pilkington, and <a href="http://www.stefanie-schurer.com" target="_blank">Stefanie Schurer</a>.\
+  + **Working Paper**: <a href="https://ftp.iza.org/dp14693.pdf" target="_blank">IZA Discussion Paper No. 14693 (September 2021)</a>
 
 <!-- mobile code --> 
 <details class="collapse-abstract">
@@ -68,10 +66,10 @@ output:
 
 <br>
 
-* [3] **From Subsidies to Loans: The Effects of a National Student Finance Reform on the Choices of Secondary School Students**, with <a href="https://www.jankabatek.com" target="_blank">Jan Kabátek</a>.
+* [3] **From Subsidies to Loans: The Effects of a National Student Finance Reform on the Choices of Secondary School Students**, with <a href="https://www.jankabatek.com" target="_blank">Jan Kabátek</a>.\
   + **Working Paper**: 
-      + <a href="https://melbourneinstitute.unimelb.edu.au/__data/assets/pdf_file/0007/3854527/wp2021n12.pdf" target="_blank">Melbourne Institute Working Paper No. 12/21 (July 2021)</a>
-      + <a href="https://ftp.iza.org/dp14686.pdf" target="_blank">IZA Discussion Paper No. 14686 (August 2021)</a>
+    + <a href="https://melbourneinstitute.unimelb.edu.au/__data/assets/pdf_file/0007/3854527/wp2021n12.pdf" target="_blank">Melbourne Institute Working Paper No. 12/21 (July 2021)</a>
+    + <a href="https://ftp.iza.org/dp14686.pdf" target="_blank">IZA Discussion Paper No. 14686 (August 2021)</a>
 
 <!-- mobile code --> 
 <details class="collapse-abstract">
