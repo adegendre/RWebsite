@@ -29,10 +29,7 @@ output:
 ## Submitted and Under Review
 
 * [1] **On the Mechanisms of Ability Peer Effects**, with <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">Nicolás Salamanca</a>.\
-  + **Working Paper**: 
-    + <a href="https://melbourneinstitute.unimelb.edu.au/__data/assets/pdf_file/0005/3505685/wp2020n19.pdf" target="_blank">Melbourne Institute Working Paper No. 19/20 (October 2020)</a>
-    + <a href="http://ftp.iza.org/dp13938.pdf" target="_blank">IZA Discussion Paper No. 13938 (December 2020)</a>.
-      
+
 <!-- mobile code --> 
 <details class="collapse-abstract">
   <summary>Abstract</summary>
@@ -45,11 +42,14 @@ output:
 <p>Studying with higher ability peers increases student performance, yet we have little idea why. We exploit mandated random assignment of students to classrooms and find positive peer effects on test scores. With rich data on nineteen potential mechanisms, we then estimate how effects on attitudes, parents, and teachers could drive these results. Higher-achieving peers reduce student effort, increase student university aspirations, increase parental time investments and parental strictness, and have precise null effects elsewhere. None of these mechanisms, however, explain our peer effect on test scores. Our novel method to detect cluster violations of random assignment is of independent interest.</p>
 </ul>
 
+<ul class='wplists'>
+**Working Paper**: <a href="https://melbourneinstitute.unimelb.edu.au/__data/assets/pdf_file/0005/3505685/wp2020n19.pdf" target="_blank">Melbourne Institute (Oct 2020)</a> | <a href="http://ftp.iza.org/dp13938.pdf" target="_blank">IZA (Dec 2020)</a>
+</ul>
+
 
 <br>
 
 * [2] **Child Health and Parental Responses to an Unconditional Cash Transfer at Birth**, with John Lynch, Aurélie Meunier, Rhiannon Pilkington, and <a href="http://www.stefanie-schurer.com" target="_blank">Stefanie Schurer</a>.\
-  + **Working Paper**: <a href="https://ftp.iza.org/dp14693.pdf" target="_blank">IZA Discussion Paper No. 14693 (September 2021)</a>
 
 <!-- mobile code --> 
 <details class="collapse-abstract">
@@ -63,13 +63,13 @@ output:
 <p>We estimate the impact on child health of the unanticipated introduction of the Australian Baby Bonus, a \$3,000 one-off unconditional cash transfer at birth. Using regression discontinuity methods and linked administrative data from South Australia, we find that treated babies had fewer preventable, acute, and urgent hospital presentations—medical care available without co-payments—in the first two years of life. The payment later increased demand for elective care, which requires planning, medical referrals, and often co-payments. Our effects are strongest for disadvantaged families. Our findings suggest that up to 34\% of the payout were recouped within the first year.</p>
 </ul>
 
+<ul class='wplists'>
+**Working Paper**: <a href="https://ftp.iza.org/dp14693.pdf" target="_blank">IZA (Sep 2021)</a>
+</ul>
 
 <br>
 
 * [3] **From Subsidies to Loans: The Effects of a National Student Finance Reform on the Choices of Secondary School Students**, with <a href="https://www.jankabatek.com" target="_blank">Jan Kabátek</a>.\
-  + **Working Paper**: 
-    + <a href="https://melbourneinstitute.unimelb.edu.au/__data/assets/pdf_file/0007/3854527/wp2021n12.pdf" target="_blank">Melbourne Institute Working Paper No. 12/21 (July 2021)</a>
-    + <a href="https://ftp.iza.org/dp14686.pdf" target="_blank">IZA Discussion Paper No. 14686 (August 2021)</a>
 
 <!-- mobile code --> 
 <details class="collapse-abstract">
@@ -83,6 +83,9 @@ output:
 <p>We analyse the effects of a national student finance reform in the Netherlands, which replaced universal subsidies for higher education students by low-interest loans. We show that this reform had a large impact on education choices of secondary school students, lowering their enrolments in college-preparing tracks and increasing the share of students specializing in STEM subjects. The reform also affected the living arrangements of new college entrants. Our findings highlight that secondary school students respond to the modes of higher education financing well ahead of their graduation, and that financial aid uncertainty alone can deter many from pursuing higher education.</p>
 </ul>
 
+<ul class='wplists'>
+**Working Paper**: <a href="https://melbourneinstitute.unimelb.edu.au/__data/assets/pdf_file/0007/3854527/wp2021n12.pdf" target="_blank">Melbourne Institute (July 2021)</a> | <a href="https://ftp.iza.org/dp14686.pdf" target="_blank">IZA (Aug 2021)</a>
+</ul>
 
 <br>
 

@@ -130,10 +130,20 @@ img-circle {
      }
      .collapse-abstract{
          display: block;
-         margin-left: 4em;
+         margin-left: 2.5em;
      }
      .collapse-abstract-featured{
          display: block;
          margin-left: 0;
      }
 }
+
+
+/*------------ WP lists ----------- */
+
+.wplists{
+  display: block;
+  margin-left: 0;
+}
+
+
