@@ -62,7 +62,3 @@ May-16	Dynamics of Inequalities and their Perceptions, Aix-Marseille Université
 Add separation here between body and footer
 -->
 
-<br>
-
----
-

@@ -16,18 +16,6 @@ navbar:
       href: teaching.html
     - text: "CV"
       href: files/AdG_CV.pdf
-  right: 
-    - icon: fa-envelope fa-lg
-      href: mailto:<alexandra.degendre@sydney.edu.au>
-    - icon: fab fa-twitter
-      href: http://twitter.com/adegendre/
-    - icon: fab fa-github
-      href: http://github.com/adegendre/
-    - text: iD
-      icon: fa-orcid
-      href: https://orcid.org/0000-0001-6409-1982
-    - icon: fas fa-graduation-cap
-      href: https://scholar.google.com/citations?hl=en&user=3A-i5UUAAAAJ
 
 # Shared appearance for all pages of the site
 output:

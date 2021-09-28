@@ -142,7 +142,3 @@ output:
 Comments here 
 -->
   
-<br>
-
-
----

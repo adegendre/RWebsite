@@ -36,7 +36,3 @@ title: "Teaching"
 <!--
 Add separation here between body and footer
 -->
-
-<br>
-
----
