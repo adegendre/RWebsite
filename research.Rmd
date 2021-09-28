@@ -89,6 +89,26 @@ output:
 
 <br>
 
+
+* [4] **Two decades of welfare reforms in Australia: How did they affect single mothers and their children?**, with <a href="http://www.stefanie-schurer.com" target="_blank">Stefanie Schurer</a> and Angela Zhang.\
+  
+<!-- mobile code --> 
+<details class="collapse-abstract">
+  <summary>Abstract</summary>
+  <p>Worldwide, single mothers are profoundly time and income constrained, making them heavily reliant on government transfers. We examine how welfare reforms that introduced mutual obligations affected the economic position of single mothers and the development of their children over the past two decades in Australia. Using nationally representative longitudinal data, we show that disposable incomes of single-mother households were significantly reduced relative to partnered mothers since the 2005 Welfare-to-Work Act came into effect in July 2006, a downward trend that was aggravated by the Global Financial Crisis and the 2013 suspension of grandfathered single parenting payment rules. The reform diminished parenting and family payments for single mothers, who compensated income loss by increasing reliance on disability pension payments, work hours, and child-care expenditures. We then use nationally representative cohort data to estimate the impact of single motherhood on child skill development, following children who entered primary school when their mothers were affected by the Welfare-to-Work reform. We find unadjusted single-motherhood gaps of 0.2 SD in cognitive and 0.3 SD in non-cognitive skills. Non-cognitive skill gaps are only partially explained by differences in observable characteristics, while cognitive skill gaps are fully explained by observable characteristics. Differences in disposable household income between single and partnered mother households explain over 50% of the observed cognitive ability gaps in childhood and 25% in late adolescence. In the presence of positive spillover effects, we propose that welfare payments to vulnerable families may function as a social investment rather than a sunk cost.</p>
+</details> 
+
+<!-- desktop code --> 
+<ul class='bigScreen'>
+**Abstract**: \
+<p>Worldwide, single mothers are profoundly time and income constrained, making them heavily reliant on government transfers. We examine how welfare reforms that introduced mutual obligations affected the economic position of single mothers and the development of their children over the past two decades in Australia. Using nationally representative longitudinal data, we show that disposable incomes of single-mother households were significantly reduced relative to partnered mothers since the 2005 Welfare-to-Work Act came into effect in July 2006, a downward trend that was aggravated by the Global Financial Crisis and the 2013 suspension of grandfathered single parenting payment rules. The reform diminished parenting and family payments for single mothers, who compensated income loss by increasing reliance on disability pension payments, work hours, and child-care expenditures. We then use nationally representative cohort data to estimate the impact of single motherhood on child skill development, following children who entered primary school when their mothers were affected by the Welfare-to-Work reform. We find unadjusted single-motherhood gaps of 0.2 SD in cognitive and 0.3 SD in non-cognitive skills. Non-cognitive skill gaps are only partially explained by differences in observable characteristics, while cognitive skill gaps are fully explained by observable characteristics. Differences in disposable household income between single and partnered mother households explain over 50% of the observed cognitive ability gaps in childhood and 25% in late adolescence. In the presence of positive spillover effects, we propose that welfare payments to vulnerable families may function as a social investment rather than a sunk cost.</p>
+</ul>
+
+<ul class='wplists'>
+**Working Paper**: Coming soon.
+</ul>
+
+
 ## Ongoing Projects
 
 * [1] **A meta-analysis on role models in education**, with <a href="https://janfeld.weebly.com" target="_blank">Jan Feld</a>, <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">Nicolás Salamanca</a> and <a href="http://ulfzoelitz.com" target="_blank">Ulf Zölitz</a>.
