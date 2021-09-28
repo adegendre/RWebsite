@@ -91,31 +91,32 @@ output:
 
 ## Ongoing Projects
 
-* [1] **Quantifying Aspirational Poverty Traps**, with <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">Nicolás Salamanca</a>.
+* [1] **A meta-analysis on role models in education**, with <a href="https://janfeld.weebly.com" target="_blank">Jan Feld</a>, <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">Nicolás Salamanca</a> and <a href="http://ulfzoelitz.com" target="_blank">Ulf Zölitz</a>.
+  + **Status**: Draft in preparation.
+  
+<br>
+
+* [2] **The Impact of Low-Income Priorities Points on School Choice and Student Outcomes**, with <a href="https://sites.google.com/view/shushanikmargaryan" target="_blank">Shushanik Margaryan</a> and <a href="https://sites.google.com/site/josemontalbancastilla/" target="_blank">José Montalban Castilla</a>.
+  + **Status**: Preliminary Results. To be presented by José at the IZA 2021 Junior/Senior Symposium.
+
+<br>
+
+* [3] **Quantifying Aspirational Poverty Traps**, with <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">Nicolás Salamanca</a>.
   + **Status**: Draft in preparation. 
   
 <!-- mobile code --> 
 <details class="collapse-abstract">
   <summary>Description</summary>
-  <p>We propose a simple methodology based on a microeconomic model of human capital investment with goals and threshold regression methods to estimate the size and location in the population of aspirational poverty traps. We apply our methodology to the United States using the NLSY79 and find that 5.5 to 7% of the population, around the 37th percentile of wealth, could be located in such poverty traps.</p>
+  <p>We propose a simple methodology based on a microeconomic model of human capital investment with goals and using threshold regression methods to estimate the size and location in the population of aspirational poverty traps. We apply our methodology to the United States using the NLSY79 and find that 5.5 to 7% of the population, around the 37th percentile of wealth, could be located in such poverty traps.</p>
 </details> 
 
 <!-- desktop code --> 
 <ul class='bigScreen'>
 **Description**: \
-<p>We propose a simple methodology based on a microeconomic model of human capital investment with goals and threshold regression methods to estimate the size and location in the population of aspirational poverty traps. We apply our methodology to the United States using the NLSY79 and find that 5.5 to 7% of the population, around the 37th percentile of wealth, could be located in such poverty traps.</p>
+<p>We propose a simple methodology based on a microeconomic model of human capital investment with goals and using threshold regression methods to estimate the size and location in the population of aspirational poverty traps. We apply our methodology to the United States using the NLSY79 and find that 5.5 to 7% of the population, around the 37th percentile of wealth, could be located in such poverty traps.</p>
 </ul>
 
 <br>
-
-* [2] **A meta-analysis on role models in education**, with <a href="https://janfeld.weebly.com" target="_blank">Jan Feld</a>, <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">Nicolás Salamanca</a> and <a href="http://ulfzoelitz.com" target="_blank">Ulf Zölitz</a>.
-  + **Status**: Data collection. 
-  
-<br>
-
-* [3] **The Impact of Low-Income Priorities Points on School Choice and Student Outcomes**, with <a href="https://sites.google.com/view/shushanikmargaryan" target="_blank">Shushanik Margaryan</a> and <a href="https://sites.google.com/site/josemontalbancastilla/" target="_blank">José Montalban Castilla</a>.
-  + **Status**: Preliminary Results. To be presented by José at the IZA 2021 Junior/Senior Symposium!
-
 
 <!--
 Comments here 
