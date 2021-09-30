@@ -16,7 +16,9 @@ navbar:
       href: teaching.html
     - text: "CV"
       href: files/AdG_CV.pdf
-
+    - text: "Resources"
+      href: resources.html
+    
 # Shared appearance for all pages of the site
 output:
   html_document:
