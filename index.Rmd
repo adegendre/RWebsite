@@ -2,7 +2,12 @@
 title: "Welcome to my website!"
 ---
 
-<img src="files/AdG_ID.jpg" style="width:20%">
+
+<div style= "float:left; position: relative; top: 0px; padding:5px">
+  <img src="files/AdG_ID.jpg" style="width:60%">
+</div>
+
+
 
 <br>
 
@@ -11,6 +16,8 @@ I am an academic economist interested in the **economics of education** and **ap
 <br>
 
 **I am on the 2021/2022 job market and will be available for interviews during the EEA and ASSA meetings.**\
+
+<br>
 
 <br>
 
