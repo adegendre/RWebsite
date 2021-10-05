@@ -1,23 +1,17 @@
 ---
-title: "Welcome to my website!"
+title: ""
 ---
 
 
-<div style= "float:left; position: relative; top: 0px; padding:5px">
-  <img src="files/AdG_ID.jpg" style="width:60%">
+<div style= "float:left; position: relative; top: 0px; margin-right:0px; margin-bottom:0px">
+  <img src="files/AdG_ID.jpg" style="width:50%">
 </div>
 
-
-
-<br>
-
-I am an academic economist interested in the **economics of education** and **applied micro-econometrics**. My research focuses broadly on the **causes and consequences of socioeconomic disadvantage in education**, especially on **parental engagement** and **social interactions in schools**. In my research I develop and apply econometrics procedures for causal inference and policy evaluation. I use these methods in my research with administrative and survey data from Australia, Taiwan, the Netherlands, Spain and the United States.\  
+I am an economist interested in the **economics of education** and **applied econometrics**. My research focuses broadly on the **causes and consequences of socioeconomic disadvantage in education**, especially on **parental engagement** and **social interactions in schools**. In my research I develop and apply econometrics procedures for causal inference and policy evaluation. I use these methods to analyze large-scale administrative records and survey data from Australia, Taiwan, the Netherlands, Spain and the United States.\  
 
 <br>
 
 **I am on the 2021/2022 job market and will be available for interviews during the EEA and ASSA meetings.**\
-
-<br>
 
 <br>
 
