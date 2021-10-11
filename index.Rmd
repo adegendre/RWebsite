@@ -7,7 +7,11 @@ title: ""
   <img src="files/AdG_ID.jpg" style="width:50%">
 </div>
 
-I am an economist interested in the **economics of education** and **applied econometrics**. My research focuses broadly on the **causes and consequences of socioeconomic disadvantage in education**, especially on **parental engagement** and **social interactions in schools**. In my research I develop and apply econometrics procedures for causal inference and policy evaluation. I use these methods to analyze large-scale administrative records and survey data from Australia, Taiwan, the Netherlands, Spain and the United States.\  
+I am an economist interested in the **economics of education** and **applied econometrics**. My research focuses broadly on the **causes and consequences of socioeconomic disadvantage in education**, especially on **parental engagement** and **social interactions in schools**. I apply econometrics methods for causal inference and policy evaluation. I also develop econometric procedures to address empirical issues such as cluster randomization failure in natural experiments. I use large-scale administrative records and survey data from Australia, Taiwan, the Netherlands, Spain and the United States.\  
+
+<!--
+Access a link hosted on Github: <a href="https://adegendre.github.io/files/AdG_CV.pdf">my CV here</a>.
+-->
 
 <br>
 
@@ -15,11 +19,11 @@ I am an economist interested in the **economics of education** and **applied eco
 
 <br>
 
-I am currently a postdoctoral Research Associate at <a href="https://www.sydney.edu.au/arts/schools/school-of-economics.html" target="_blank">the University of Sydney</a>, where I work with <a href="http://www.stefanie-schurer.com" target="_blank">Prof. Stefanie Schurer</a>.\ 
+
+I received my Ph.D. in Economics from Maastricht University in the Netherlands in March 2021, where I was supervised by <a href="https://sites.google.com/site/oliviermarie/" target="_blank">Prof. Olivier Marie</a>. Before my PhD, I received a M.Sc. degree in Statistics from <a href="http://ensai.fr/en/" target="_blank">Ensai</a> in France, and a dual M.Sc. in Economics from <a href="https://www.wiwi.hu-berlin.de/en/mainpage" target="_blank">Humboldt University</a> in Germany. 
+Currently, I am a postdoctoral Research Associate at <a href="https://www.sydney.edu.au/arts/schools/school-of-economics.html" target="_blank">the University of Sydney</a>, where I work with <a href="http://www.stefanie-schurer.com" target="_blank">Prof. Stefanie Schurer</a>.\
 
 I am also a Research Affiliate at IZA since July 2018, and a Research Affiliate at the <a href="https://www.lifecoursecentre.org.au" target="_blank">ARC Centre of Excellence for Children and Families over the Life Course (LCC)</a> since May 2018.\ 
-
-I received my Ph.D. in Economics from Maastricht University in the Netherlands in March 2021, where I was supervised by <a href="https://sites.google.com/site/oliviermarie/" target="_blank">Prof. Olivier Marie</a>. Before my PhD, I received a M.Sc. degree in Statistics from <a href="http://ensai.fr/en/" target="_blank">Ensai</a> in France, and a dual M.Sc. in Economics from <a href="https://www.wiwi.hu-berlin.de/en/mainpage" target="_blank">Humboldt University</a> in Germany.\ 
 
 During my PhD, I have visited the <a href="https://melbourneinstitute.unimelb.edu.au/home#home" target="_blank">Melbourne Institute</a> at The University of Melbourne from March 2018 to March 2019, <a href="https://www.iza.org" target="_blank">IZA</a> in April 2019, and the <a href="https://www.jacobscenter.uzh.ch/en.html" target="_blank">Jacobs Centre</a> and the Department of Economics at the University of Zurich from May to October 2019.\  
  
