@@ -139,6 +139,7 @@ img-circle {
     .bigScreen{
          display: none;
      }
+     
      .collapse-abstract{
          display: block;
          margin-left: 2.5em;
@@ -147,6 +148,24 @@ img-circle {
          display: block;
          margin-left: 0;
      }
+     
+    .jmplist-mobile{
+        display: block;
+        margin-left: -2.5em;
+      }
+}
+
+/* only apply css for bigger than 600px screens */
+@media only screen and (min-width: 600px){
+    .SmallScreen{
+         display: none;
+     }
+     
+    .jmplist-desktop{
+        display: block;
+        margin-left: -2.5em;
+    }
+
 }
 
 
