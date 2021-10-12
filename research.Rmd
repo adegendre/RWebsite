@@ -54,9 +54,8 @@ output:
 </ul>
 
 <ul class='wplists'>
-**Working Paper**: <a href="https://melbourneinstitute.unimelb.edu.au/__data/assets/pdf_file/0005/3505685/wp2020n19.pdf" target="_blank">Melbourne Institute (Oct 2020)</a> | <a href="http://ftp.iza.org/dp13938.pdf" target="_blank">IZA (Dec 2020)</a>
+**Working Paper**: <a href="https://adegendre.github.io/papers/deGendre_Salamanca_2020_Melbourne_Institute_WP_wp2020n19.pdf" target="_blank">Melbourne Institute (Oct 2020)</a> | <a href="https://adegendre.github.io/papers/deGendre_Salamanca_2020_IZA_dp13938.pdf" target="_blank">IZA (Dec 2020)</a>
 </ul>
-
 
 <br>
 
@@ -75,10 +74,8 @@ output:
 </ul>
 
 <ul class='wplists'>
-**Working Paper**: <a href="https://ftp.iza.org/dp14693.pdf" target="_blank">IZA (Sep 2021)</a>
+**Working Paper**: <a href="https://adegendre.github.io/papers/deGendre_Lynch_Meunier_Pilkington_Schurer_2021_IZA_dp14693.pdf" target="_blank">IZA (Sep 2021)</a>
 </ul>
-
-<a href="https://adegendre.github.io/papers/deGendre_Lynch_Meunier_Pilkington_Schurer_2021_IZA_dp14693.pdf">here</a>.
 
 <br>
 
@@ -97,8 +94,9 @@ output:
 </ul>
 
 <ul class='wplists'>
-**Working Paper**: <a href="https://melbourneinstitute.unimelb.edu.au/__data/assets/pdf_file/0007/3854527/wp2021n12.pdf" target="_blank">Melbourne Institute (July 2021)</a> | <a href="https://ftp.iza.org/dp14686.pdf" target="_blank">IZA (Aug 2021)</a>
+**Working Paper**: <a href="https://adegendre.github.io/papers/deGendre_Kabatek_2021_Melbourne_Institute_WP_wp2021n12.pdf" target="_blank">Melbourne Institute (July 2021)</a> | <a href="https://adegendre.github.io/papers/deGendre_Kabatek_2021_IZA_dp14686.pdf" target="_blank">IZA (Aug 2021)</a>
 </ul>
+
 
 <br>
 
@@ -118,9 +116,8 @@ output:
 </ul>
 
 <ul class='wplists'>
-**Working Paper**: <a href="https://ftp.iza.org/dp14752.pdf" target="_blank">IZA (Sep 2021)</a>
+**Working Paper**: <a href="https://adegendre.github.io/papers/deGendre_Schurer_Zhang_2021_IZA_dp14752.pdf" target="_blank">IZA (Sep 2021)</a>
 </ul>
-
 
 ## Ongoing Projects
 
