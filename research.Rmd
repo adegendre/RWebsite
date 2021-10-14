@@ -101,7 +101,7 @@ output:
 <br>
 
 
-* [4] **Two decades of welfare reforms in Australia: How did they affect single mothers and their children?**, with <a href="http://www.stefanie-schurer.com" target="_blank">Stefanie Schurer</a> and Angela Zhang.\
+* [4] **Two Decades of Welfare Reforms in Australia: How Did They Affect Single Mothers and Their Children?**, with <a href="http://www.stefanie-schurer.com" target="_blank">Stefanie Schurer</a> and Angela Zhang.\
   
 <!-- mobile code --> 
 <details class="collapse-abstract">
@@ -121,7 +121,7 @@ output:
 
 ## Ongoing Projects
 
-* [1] **A meta-analysis on role models in education**, with <a href="https://janfeld.weebly.com" target="_blank">Jan Feld</a>, <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">Nicolás Salamanca</a> and <a href="http://ulfzoelitz.com" target="_blank">Ulf Zölitz</a>.
+* [1] **A Meta-Analysis on Role Models in Education**, with <a href="https://janfeld.weebly.com" target="_blank">Jan Feld</a>, <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">Nicolás Salamanca</a> and <a href="http://ulfzoelitz.com" target="_blank">Ulf Zölitz</a>.
   + **Status**: Draft in preparation.
   
 <br>
