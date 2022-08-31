@@ -7,37 +7,8 @@ output:
     toc_depth: 3
 ---
 
-## Job-Market Paper
 
-**Class Rank and Sibling Spillover Effects** 
-
-<!-- mobile code --> 
-<ul class='SmallScreen'>
-<details class="collapse-abstract-featured">
-  <summary>Abstract</summary>
-  <p>Household responses to changes in school inputs can change drastically the returns to public investment. I study an important and understudied aspect of family decision-making: how parents and younger siblings adjust their behaviors in response to the relative academic achievement of an older sibling within her cohort. I propose a novel identification strategy for sibling spillover effects in school achievement which exploits variation in child rank in school. I use administrative records from the Netherlands, where pupils leave primary school with a national standardized test score and a tracking recommendation. Variation in class rank conditional on ability and cohort-by-school fixed effects is credibly exogenous in this setting, and isolates sibling spillovers driven by behavioral and psychological mechanisms, net of direct transmission of human capital. A 1 standard deviation (SD) increase in child rank decreases their younger sibling’s test scores by around 2%SD. Higher-ranked older sibling experience faster own human capital accumulation, and same-sex older siblings have a stronger influence on younger siblings. I further show that migrant parents increase investments in school quality and speaking Dutch at home. Older sibling ranks also depress teachers’ tracking advice particularly for migrant children, suggesting that teachers’ form harsher expectations about younger siblings. My findings indicate that behavioral and psychological mechanisms contribute to sibling spillover effects, and school inputs are important drivers of within- family human capital spillovers.</p>
-</details> 
-<ul class='jmplist-mobile'>
-**Draft**: <a href="https://adegendre.github.io/papers/de_Gendre_2021_JMP_Class_Rank_and_Sibling_Spillover_Effects.pdf" target="_blank">Current version (29 October 2021)</a>
-</ul>
-</ul>
-
-
-<!-- desktop code --> 
-<ul class='bigScreen'>
-**Abstract**: \
-<p>Household responses to changes in school inputs can change drastically the returns to public investment. I study an important and understudied aspect of family decision-making: how parents and younger siblings adjust their behaviors in response to the relative academic achievement of an older sibling within her cohort. I propose a novel identification strategy for sibling spillover effects in school achievement which exploits variation in child rank in school. I use administrative records from the Netherlands, where pupils leave primary school with a national standardized test score and a tracking recommendation. Variation in class rank conditional on ability and cohort-by-school fixed effects is credibly exogenous in this setting, and isolates sibling spillovers driven by behavioral and psychological mechanisms, net of direct transmission of human capital. A 1 standard deviation (SD) increase in child rank decreases their younger sibling’s test scores by around 2%SD. Higher-ranked older sibling experience faster own human capital accumulation, and same-sex older siblings have a stronger influence on younger siblings. I further show that migrant parents increase investments in school quality and speaking Dutch at home. Older sibling ranks also depress teachers’ tracking advice particularly for migrant children, suggesting that teachers’ form harsher expectations about younger siblings. My findings indicate that behavioral and psychological mechanisms contribute to sibling spillover effects, and school inputs are important drivers of within- family human capital spillovers.</p>
-
-<ul class='jmplist-desktop'>
-**Draft**: <a href="https://adegendre.github.io/papers/de_Gendre_2021_JMP_Class_Rank_and_Sibling_Spillover_Effects.pdf" target="_blank">Current version (29 October 2021)</a>
-</ul>
-
-</ul>
-
-
-<br>
-
-## Submitted and Under Review
+## Papers Submitted and Under Review
 
 * [1] **On the Mechanisms of Ability Peer Effects**, with <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">Nicolás Salamanca</a>.\
 
@@ -55,6 +26,7 @@ output:
 
 <ul class='wplists'>
 **Working Paper**: <a href="https://adegendre.github.io/papers/deGendre_Salamanca_2020_Melbourne_Institute_WP_wp2020n19.pdf" target="_blank">Melbourne Institute (Oct 2020)</a> | <a href="https://adegendre.github.io/papers/deGendre_Salamanca_2020_IZA_dp13938.pdf" target="_blank">IZA (Dec 2020)</a> \
+**Slides**: <a href="https://adegendre.github.io/papers/de_Gendre_Salamanca_ESAM_2021.pdf" target="_blank">Econometric Society Australasian Meeting (ESAM) (July 2021)</a> \
 **Media**: <a href="https://theconversation.com/being-in-a-class-with-high-achievers-improves-students-test-scores-we-tried-to-find-out-why-171400" target="_blank">The Conversation (Nov 2021)</a> | ABC Radio Sydney Afternoons (15 Nov 2021)
 </ul>
 
@@ -77,7 +49,7 @@ output:
 
 <ul class='wplists'>
 **Working Paper**: <a href="https://adegendre.github.io/papers/deGendre_Lynch_Meunier_Pilkington_Schurer_2021_IZA_dp14693.pdf" target="_blank">IZA (Sep 2021)</a>\
-**Upcoming talks**: ASHEcon (June 2022), BSE Summer Forum (June 2022), NBER SI 2022 Children (July 2022). 
+**Slides**: <a href="https://adegendre.github.io/papers/de_Gendre_NBER_SI_2022.pdf" target="_blank">NBER Summer Institute 2022 (July 2022)</a> 
 </ul>
 
 <br>
@@ -124,20 +96,56 @@ output:
 
 ## Ongoing Projects
 
-* [1] **A Meta-Analysis on Role Models in Education**, with <a href="https://janfeld.weebly.com" target="_blank">Jan Feld</a>, <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">Nicolás Salamanca</a> and <a href="http://ulfzoelitz.com" target="_blank">Ulf Zölitz</a>.
+
+* [1] **Class Rank and Sibling Spillover Effects**.
+
+<!-- mobile code --> 
+<details class="collapse-abstract">
+  <summary>Abstract</summary>
+  <p>This paper studies how students' relative rank affects their younger siblings’ academic performance. Using Dutch administrative data, I exploit within-school, across-cohort variation in student rank. Consistent with previous research, I find that higher-ranked students experience faster human capital accumulation. Yet, these rank effects generate negative spillovers on younger siblings: a one standard deviation increase in rank decreases younger sibling’s test scores by 2 percent of a standard deviation. These spillovers are stronger for same-sex siblings. I show that changes in parental investments and expectations drive part of these spillovers. In particular, I show that migrant parents increase investments in school quality and speaking Dutch at home. My findings highlight that the peer environment creates within-family human capital spillovers.</p>
+</details> 
+
+<!-- desktop code --> 
+<ul class='bigScreen'>
+**Abstract**: \
+<p>This paper studies how students' relative rank affects their younger siblings’ academic performance. Using Dutch administrative data, I exploit within-school, across-cohort variation in student rank. Consistent with previous research, I find that higher-ranked students experience faster human capital accumulation. Yet, these rank effects generate negative spillovers on younger siblings: a one standard deviation increase in rank decreases younger sibling’s test scores by 2 percent of a standard deviation. These spillovers are stronger for same-sex siblings. I show that changes in parental investments and expectations drive part of these spillovers. In particular, I show that migrant parents increase investments in school quality and speaking Dutch at home. My findings highlight that the peer environment creates within-family human capital spillovers.</p>
+</ul>
+
+<ul class='wplists'>
+**Draft**: <a href="https://adegendre.github.io/papers/de_Gendre_2021_JMP_Class_Rank_and_Sibling_Spillover_Effects.pdf" target="_blank">JMP version (31 August 2022)</a> \
+</ul>
+
+
+<br>
+
+* [2] **Do Same-Sex Teachers Affect Test Scores and Job Preferences? A Super-Study and a Meta-Analysis on Role Model Effects in Education**, with <a href="https://janfeld.weebly.com" target="_blank">Jan Feld</a>, <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">Nicolás Salamanca</a> and <a href="http://ulfzoelitz.com" target="_blank">Ulf Zölitz</a>.
+
+
+<!-- mobile code --> 
+<details class="collapse-abstract">
+  <summary>Abstract</summary>
+  <p>Previous studies provide contradicting evidence on same-sex role model effects in education. We resolve those contradictions with a meta-analysis and a super-study. Our meta-analysis summarizes 25 studies, and our super-study provides new evidence from 86 countries and 3.8 million students. Both approaches highlight that role model effects on students’ performance are small: 0.036 SD in the meta-analysis and 0.015 SD in the super-study. Moving beyond test scores our super-study documents larger role model effects of 0.063 SD on job preferences, which are concentrated in rich and gender-equal countries. Our results suggest that same-sex role models do not close performance gaps but may help reduce occupational segregation.</p>
+</details> 
+
+<!-- desktop code --> 
+<ul class='bigScreen'>
+**Abstract**: \
+<p>Previous studies provide contradicting evidence on same-sex role model effects in education. We resolve those contradictions with a meta-analysis and a super-study. Our meta-analysis summarizes 25 studies, and our super-study provides new evidence from 86 countries and 3.8 million students. Both approaches highlight that role model effects on students’ performance are small: 0.036 SD in the meta-analysis and 0.015 SD in the super-study. Moving beyond test scores our super-study documents larger role model effects of 0.063 SD on job preferences, which are concentrated in rich and gender-equal countries. Our results suggest that same-sex role models do not close performance gaps but may help reduce occupational segregation.</p>
+</ul>
 
 <ul class='wplists'>
 **Status**: Draft soon available \
-**Upcoming talks**: SOLE (May 2022)
+
 </ul> 
   
 <br>
 
-* [2] **The Impact of Low-Income Priorities Points on School Choice and Student Outcomes**, with <a href="https://sites.google.com/view/shushanikmargaryan" target="_blank">Shushanik Margaryan</a> and <a href="https://sites.google.com/site/josemontalbancastilla/" target="_blank">José Montalban Castilla</a>.
+* [3] **The Impact of Low-Income Priorities Points on School Choice and Student Outcomes**, with <a href="https://sites.google.com/view/shushanikmargaryan" target="_blank">Shushanik Margaryan</a> and <a href="https://sites.google.com/site/josemontalbancastilla/" target="_blank">José Montalban Castilla</a>.
 
 <ul class='wplists'>
-**Status**: Preliminary results, awaiting additional data. \
+**Status**: Draft in preparation. \
 </ul>   
+  
   
 <br>
 
