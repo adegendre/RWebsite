@@ -13,15 +13,32 @@ I am an economist interested in **labor economics** and **applied micro-economet
 
 Before joining the University of Melbourne, I was a postdoctoral Research Associate at <a href="https://www.sydney.edu.au/arts/schools/school-of-economics.html" target="_blank">the University of Sydney</a>. I received my Ph.D. in Economics from Maastricht University in the Netherlands in March 2021, where I was supervised by <a href="https://sites.google.com/site/oliviermarie/" target="_blank">Prof. Olivier Marie</a>. I hold a M.Sc. degree in Statistics from <a href="http://ensai.fr/en/" target="_blank">Ensai</a> in France, and a M.Sc. in Economics from <a href="https://www.wiwi.hu-berlin.de/en/mainpage" target="_blank">Humboldt University</a> in Germany.\
 
-I am also a Research Affiliate at the <a href="https://www.iza.org" target="_blank">IZA Institute of Labor Economics</a>  since July 2018, and a Research Affiliate at the <a href="https://www.lifecoursecentre.org.au" target="_blank">ARC Centre of Excellence for Children and Families over the Life Course (LCC)</a> since May 2018.\
+I am also a Research Affiliate at the <a href="https://www.iza.org" target="_blank">IZA Institute of Labor Economics</a>  since July 2018, and a Research Affiliate at the <a href="https://www.lifecoursecentre.org.au" target="_blank">ARC Centre of Excellence for Children and Families over the Life Course (LCC)</a> since May 2018. \
 
-<!--
 
 ### News 
 
-- New working paper available: [On the Mechanisms of Ability Peer Effects](http://ftp.iza.org/dp13938.pdf), with <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">Nicol&aacute;s Salamanca</a>.  
+- July 2022: I was invited to present my paper *"Child Health and Parental Responses to an Unconditional Cash Transfer at Birth"* at the NBER Summer Institute. [Slides here](https://adegendre.github.io/papers/de_Gendre_NBER_SI_2022.pdf)
+
+- December 2021: I was awarded the *McKenzie Postdoctoral Research Fellowship* at the Faculty of Business and Economics at the University of Melbourne! 
+
+- November 2021: I joined the <a href="https://sites.google.com/view/ausemnetwork/" target="_blank">*Australian Education Markets Network (AusEM)*</a>. We organize online seminars and activities for researchers interested in theoretical or applied research on education, education IO or matching. If you would like to present your work or attend our seminars, just shoot me an email! 
+
+
+<!--
+
+- September 2021: New working paper available: [Child Health and Parental Responses to an Unconditional Cash Transfer at Birth](https://adegendre.github.io/papers/deGendre_Lynch_Meunier_Pilkington_Schurer_2021_IZA_dp14693.pdf), with <a href="https://www.stefanie-schurer.com" target="_blank">Stefanie Schurer</a>.
+
+- August 2021: New working paper available: [From Subsidies to Loans: The Effects of a National Student Finance Reform on the Choices of Secondary School Students](https://adegendre.github.io/papers/deGendre_Kabatek_2021_IZA_dp14686.pdf), with <a href="https://www.jankabatek.com" target="_blank">Jan Kab&aacute;tek</a>.
+
+- April 2021: I successfully defended my thesis at the University of Maastricht. 
+
+- December 2020: New working paper available: [On the Mechanisms of Ability Peer Effects](http://ftp.iza.org/dp13938.pdf), with <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">Nicol&aacute;s Salamanca</a>.  
 
 -->
+
+
+
 
 <!--
 Access a link hosted on Github: <a href="https://adegendre.github.io/files/AdG_CV.pdf">my CV here</a>.
