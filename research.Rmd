@@ -134,19 +134,26 @@ output:
 </ul>
 
 <ul class='wplists'>
-**Status**: Draft soon available \
+**Status**: Draft soon available. \
 
 </ul> 
   
 <br>
 
-* [3] **The Impact of Low-Income Priorities Points on School Choice and Student Outcomes**, with <a href="https://sites.google.com/view/shushanikmargaryan" target="_blank">Shushanik Margaryan</a> and <a href="https://sites.google.com/site/josemontalbancastilla/" target="_blank">José Montalban Castilla</a>.
+* [3] **Cultural Integration in the Classroom: The Role of Parents and Teachers**, with <a href="https://sites.google.com/site/kkarbownik/home?authuser=0" target="_blank">Krzysztof (Chris) Karbownik</a>, <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">Nicolás Salamanca</a> and <a href="https://sites.google.com/site/yvesbzenou" target="_blank">Yves Zenou</a>.
 
 <ul class='wplists'>
-**Status**: Draft in preparation. \
+**Status**: Draft in preparation. Just presented by Chris at the CESifo Conference on the Economics of Education. \
+</ul>    
+
+<br>
+
+* [4] **The Impact of Low-Income Priorities Points on School Choice and Student Outcomes**, with <a href="https://sites.google.com/view/shushanikmargaryan" target="_blank">Shushanik Margaryan</a> and <a href="https://sites.google.com/site/josemontalbancastilla/" target="_blank">José Montalban Castilla</a>.
+
+<ul class='wplists'>
+**Status**: Analyzing new batch of data! \
 </ul>   
-  
-  
+
 <br>
 
 
