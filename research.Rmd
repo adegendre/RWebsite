@@ -115,11 +115,9 @@ output:
 **Draft**: <a href="https://adegendre.github.io/papers/de_Gendre_2021_JMP_Class_Rank_and_Sibling_Spillover_Effects.pdf" target="_blank">JMP version (31 August 2022)</a> \
 </ul>
 
-
 <br>
 
 * [2] **Do Same-Sex Teachers Affect Test Scores and Job Preferences? A Super-Study and a Meta-Analysis on Role Model Effects in Education**, with <a href="https://janfeld.weebly.com" target="_blank">Jan Feld</a>, <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">Nicolás Salamanca</a> and <a href="http://ulfzoelitz.com" target="_blank">Ulf Zölitz</a>.
-
 
 <!-- mobile code --> 
 <details class="collapse-abstract">
@@ -135,16 +133,30 @@ output:
 
 <ul class='wplists'>
 **Status**: Draft soon available. \
-
 </ul> 
   
 <br>
 
 * [3] **Cultural Integration in the Classroom: The Role of Parents and Teachers**, with <a href="https://sites.google.com/site/kkarbownik/home?authuser=0" target="_blank">Krzysztof (Chris) Karbownik</a>, <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">Nicolás Salamanca</a> and <a href="https://sites.google.com/site/yvesbzenou" target="_blank">Yves Zenou</a>.
 
+<!-- mobile code --> 
+<details class="collapse-abstract">
+  <summary>Abstract</summary>
+  <p>The integration of ethnic minority students in the classroom could change the behavior of students, parents and teachers of ethnic majorities. Using random assignment of children
+to classrooms in Taiwanese middle schools, we show that exposure to Indigenous but not Hakka minorities lowers test scores of ethnic majority students. These negative effects are primarily due to endogenous responses of parents and teachers rather than of students. We conclude that parental and teacher behavioral adjustments rather than direct exposure to minority children are plausible explanations behind the observed negative effects of classroom exposure to Indigenous students.</p>
+</details> 
+
+<!-- desktop code --> 
+<ul class='bigScreen'>
+**Abstract**: \
+<p>The integration of ethnic minority students in the classroom could change the behavior of students, parents and teachers of ethnic majorities. Using random assignment of children
+to classrooms in Taiwanese middle schools, we show that exposure to Indigenous but not Hakka minorities lowers test scores of ethnic majority students. These negative effects are primarily due to endogenous responses of parents and teachers rather than of students. We conclude that parental and teacher behavioral adjustments rather than direct exposure to minority children are plausible explanations behind the observed negative effects of classroom exposure to Indigenous students.</p>
+</ul>
+
 <ul class='wplists'>
-**Status**: Draft in preparation. Just presented by Chris at the CESifo Conference on the Economics of Education. \
-</ul>    
+**Status**: Draft in preparation. \
+</ul> 
+
 
 <br>
 
