@@ -4,7 +4,10 @@ title: "Talks"
 
 ### 2023
 
-Mar-23  University of New South Wales (Scheduled)
+Mar-23  University of New South Wales (Scheduled) \
+Jan-23  ADRES Université Paris-Dauphine (Scheduled) \
+Jan-23  Université Paris-Saclay (Scheduled) \
+Jan-23  CREST Paris (Scheduled) \
 
 ### 2022
 

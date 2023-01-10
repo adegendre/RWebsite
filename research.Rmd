@@ -94,7 +94,8 @@ output:
 **Working Paper**: <a href="https://adegendre.github.io/papers/deGendre_Schurer_Zhang_2021_IZA_dp14752.pdf" target="_blank">IZA (Sep 2021)</a>
 </ul>
 
-## Ongoing Projects
+
+## Work in Progress
 
 
 * [1] **Class Rank and Sibling Spillover Effects**.
@@ -122,17 +123,17 @@ output:
 <!-- mobile code --> 
 <details class="collapse-abstract">
   <summary>Abstract</summary>
-  <p>Previous studies provide contradicting evidence on same-sex role model effects in education. We resolve those contradictions with a meta-analysis and a super-study. Our meta-analysis summarizes 25 studies, and our super-study provides new evidence from 86 countries and 3.8 million students. Both approaches highlight that role model effects on students’ performance are small: 0.036 SD in the meta-analysis and 0.015 SD in the super-study. Moving beyond test scores our super-study documents larger role model effects of 0.063 SD on job preferences, which are concentrated in rich and gender-equal countries. Our results suggest that same-sex role models do not close performance gaps but may help reduce occupational segregation.</p>
+  <p>Previous studies provide contradicting evidence on same-sex role model effects in education. We resolve those contradictions with a meta-analysis and a super-study. Our meta-analysis summarizes 538 estimates, and our super-study provides new evidence from 90 countries and 3 million students. Both approaches show that role model effects on students’ performance are small: 0.030 SD in the meta-analysis and 0.015 SD in the super-study. Moving beyond test scores, our super-study documents larger role model effects of 0.063 SD on job preferences, which are concentrated in rich and gender-equal countries. Furthermore, our results suggest that same-sex role model effects can be positive or negative for 4th grade students, but are near universally positive for 8th grade students.</p>
 </details> 
 
 <!-- desktop code --> 
 <ul class='bigScreen'>
 **Abstract**: \
-<p>Previous studies provide contradicting evidence on same-sex role model effects in education. We resolve those contradictions with a meta-analysis and a super-study. Our meta-analysis summarizes 25 studies, and our super-study provides new evidence from 86 countries and 3.8 million students. Both approaches highlight that role model effects on students’ performance are small: 0.036 SD in the meta-analysis and 0.015 SD in the super-study. Moving beyond test scores our super-study documents larger role model effects of 0.063 SD on job preferences, which are concentrated in rich and gender-equal countries. Our results suggest that same-sex role models do not close performance gaps but may help reduce occupational segregation.</p>
+<p>Previous studies provide contradicting evidence on same-sex role model effects in education. We resolve those contradictions with a meta-analysis and a super-study. Our meta-analysis summarizes 538 estimates, and our super-study provides new evidence from 90 countries and 3 million students. Both approaches show that role model effects on students’ performance are small: 0.030 SD in the meta-analysis and 0.015 SD in the super-study. Moving beyond test scores, our super-study documents larger role model effects of 0.063 SD on job preferences, which are concentrated in rich and gender-equal countries. Furthermore, our results suggest that same-sex role model effects can be positive or negative for 4th grade students, but are near universally positive for 8th grade students.</p>
 </ul>
 
 <ul class='wplists'>
-**Status**: Draft soon available. \
+**Draft**: <a href="https://adegendre.github.io/papers/de_Gendre_Feld_Salamanca_Zoelitz_Role_models_118.pdf" target="_blank">Preliminary draft (December 2022)</a> \
 </ul> 
   
 <br>
@@ -149,8 +150,7 @@ to classrooms in Taiwanese middle schools, we show that exposure to Indigenous b
 <!-- desktop code --> 
 <ul class='bigScreen'>
 **Abstract**: \
-<p>The integration of ethnic minority students in the classroom could change the behavior of students, parents and teachers of ethnic majorities. Using random assignment of children
-to classrooms in Taiwanese middle schools, we show that exposure to Indigenous but not Hakka minorities lowers test scores of ethnic majority students. These negative effects are primarily due to endogenous responses of parents and teachers rather than of students. We conclude that parental and teacher behavioral adjustments rather than direct exposure to minority children are plausible explanations behind the observed negative effects of classroom exposure to Indigenous students.</p>
+<p>The integration of ethnic minority students in the classroom could change the behavior of students, parents and teachers of ethnic majorities. Using random assignment of children to classrooms in Taiwanese middle schools, we show that exposure to Indigenous but not Hakka minorities lowers test scores of ethnic majority students. These negative effects are primarily due to endogenous responses of parents and teachers rather than of students. We conclude that parental and teacher behavioral adjustments rather than direct exposure to minority children are plausible explanations behind the observed negative effects of classroom exposure to Indigenous students.</p>
 </ul>
 
 <ul class='wplists'>
