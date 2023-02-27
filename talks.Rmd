@@ -4,10 +4,12 @@ title: "Talks"
 
 ### 2023
 
+Aug-23  University of Queensland (Scheduled) \
+May-23  SOLE Annual Meeting (Scheduled) \
 Mar-23  University of New South Wales (Scheduled) \
-Jan-23  ADRES Université Paris-Dauphine (Scheduled) \
-Jan-23  Université Paris-Saclay (Scheduled) \
-Jan-23  CREST Paris (Scheduled) \
+Jan-23  ADRES Université Paris-Dauphine \
+Jan-23  Université Paris-Saclay (cancelled) \
+Jan-23  CREST Paris \
 
 ### 2022
 
