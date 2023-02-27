@@ -6,6 +6,7 @@ title: "Talks"
 
 Aug-23  University of Queensland (Scheduled) \
 May-23  SOLE Annual Meeting (Scheduled) \
+May-23  University of Melbourne (Scheduled) \
 Mar-23  University of New South Wales (Scheduled) \
 Jan-23  ADRES Université Paris-Dauphine \
 Jan-23  Université Paris-Saclay (cancelled) \

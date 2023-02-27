@@ -118,18 +118,18 @@ output:
 
 <br>
 
-* [2] **Do Same-Sex Teachers Affect Test Scores and Job Preferences? A Super-Study and a Meta-Analysis on Role Model Effects in Education**, with <a href="https://janfeld.weebly.com" target="_blank">Jan Feld</a>, <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">Nicolás Salamanca</a> and <a href="http://ulfzoelitz.com" target="_blank">Ulf Zölitz</a>.
+* [2] **Same-Sex Role Model Effects in Education**, with <a href="https://janfeld.weebly.com" target="_blank">Jan Feld</a>, <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">Nicolás Salamanca</a> and <a href="http://ulfzoelitz.com" target="_blank">Ulf Zölitz</a>.
 
 <!-- mobile code --> 
 <details class="collapse-abstract">
   <summary>Abstract</summary>
-  <p>Previous studies provide contradicting evidence on same-sex role model effects in education. We resolve those contradictions with a meta-analysis and a super-study. Our meta-analysis summarizes 538 estimates, and our super-study provides new evidence from 90 countries and 3 million students. Both approaches show that role model effects on students’ performance are small: 0.030 SD in the meta-analysis and 0.015 SD in the super-study. Moving beyond test scores, our super-study documents larger role model effects of 0.063 SD on job preferences, which are concentrated in rich and gender-equal countries. Furthermore, our results suggest that same-sex role model effects can be positive or negative for 4th grade students, but are near universally positive for 8th grade students.</p>
+  <p>We study same-sex role model effects of teachers with a meta-analysis and our own study of 3 million students in 90 countries. Both approaches show that role model effects on performance are, on average, small: 0.030 SD in the meta-analysis and 0.015 SD in our multi-country study. Our multi-country study documents larger average role model effects on job preferences (0.063 SD), which are concentrated in rich and gender-equal countries. We also estimate the distribution of role model effects for different education levels and student outcomes. These show that role model effects in secondary education are positive in almost all countries.</p>
 </details> 
 
 <!-- desktop code --> 
 <ul class='bigScreen'>
 **Abstract**: \
-<p>Previous studies provide contradicting evidence on same-sex role model effects in education. We resolve those contradictions with a meta-analysis and a super-study. Our meta-analysis summarizes 538 estimates, and our super-study provides new evidence from 90 countries and 3 million students. Both approaches show that role model effects on students’ performance are small: 0.030 SD in the meta-analysis and 0.015 SD in the super-study. Moving beyond test scores, our super-study documents larger role model effects of 0.063 SD on job preferences, which are concentrated in rich and gender-equal countries. Furthermore, our results suggest that same-sex role model effects can be positive or negative for 4th grade students, but are near universally positive for 8th grade students.</p>
+<p>We study same-sex role model effects of teachers with a meta-analysis and our own study of 3 million students in 90 countries. Both approaches show that role model effects on performance are, on average, small: 0.030 SD in the meta-analysis and 0.015 SD in our multi-country study. Our multi-country study documents larger average role model effects on job preferences (0.063 SD), which are concentrated in rich and gender-equal countries. We also estimate the distribution of role model effects for different education levels and student outcomes. These show that role model effects in secondary education are positive in almost all countries.</p>
 </ul>
 
 <ul class='wplists'>
@@ -138,19 +138,18 @@ output:
   
 <br>
 
-* [3] **Cultural Integration in the Classroom: The Role of Parents and Teachers**, with <a href="https://sites.google.com/site/kkarbownik/home?authuser=0" target="_blank">Krzysztof (Chris) Karbownik</a>, <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">Nicolás Salamanca</a> and <a href="https://sites.google.com/site/yvesbzenou" target="_blank">Yves Zenou</a>.
+* [3] **Cultural Integration in the Classroom: The Role of Students, Parents and Teachers**, with <a href="https://sites.google.com/site/kkarbownik/home?authuser=0" target="_blank">Krzysztof (Chris) Karbownik</a>, <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">Nicolás Salamanca</a> and <a href="https://sites.google.com/site/yvesbzenou" target="_blank">Yves Zenou</a>.
 
 <!-- mobile code --> 
 <details class="collapse-abstract">
   <summary>Abstract</summary>
-  <p>The integration of ethnic minority students in the classroom could change the behavior of students, parents and teachers of ethnic majorities. Using random assignment of children
-to classrooms in Taiwanese middle schools, we show that exposure to Indigenous but not Hakka minorities lowers test scores of ethnic majority students. These negative effects are primarily due to endogenous responses of parents and teachers rather than of students. We conclude that parental and teacher behavioral adjustments rather than direct exposure to minority children are plausible explanations behind the observed negative effects of classroom exposure to Indigenous students.</p>
+  <p>The integration of ethnic minority students in the classroom could change the behaviors of ethnic majority students and their parents, as well as that of their teachers. Using random assignment of children to classrooms in Taiwanese middle schools, we show that exposure to Indigenous but not Hakka minorities lowers test scores of the ethnic majority students. These negative effects are primarily due to endogenous responses of parents and teachers rather than students’ correlated characteristics or responses.</p>
 </details> 
 
 <!-- desktop code --> 
 <ul class='bigScreen'>
 **Abstract**: \
-<p>The integration of ethnic minority students in the classroom could change the behavior of students, parents and teachers of ethnic majorities. Using random assignment of children to classrooms in Taiwanese middle schools, we show that exposure to Indigenous but not Hakka minorities lowers test scores of ethnic majority students. These negative effects are primarily due to endogenous responses of parents and teachers rather than of students. We conclude that parental and teacher behavioral adjustments rather than direct exposure to minority children are plausible explanations behind the observed negative effects of classroom exposure to Indigenous students.</p>
+<p>The integration of ethnic minority students in the classroom could change the behaviors of ethnic majority students and their parents, as well as that of their teachers. Using random assignment of children to classrooms in Taiwanese middle schools, we show that exposure to Indigenous but not Hakka minorities lowers test scores of the ethnic majority students. These negative effects are primarily due to endogenous responses of parents and teachers rather than students’ correlated characteristics or responses.</p>
 </ul>
 
 <ul class='wplists'>
