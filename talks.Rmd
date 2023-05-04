@@ -4,10 +4,12 @@ title: "Talks"
 
 ### 2023
 
+Aug-23  University of Technology Sydney (Scheduled) \
 Aug-23  University of Queensland (Scheduled) \
-May-23  SOLE Annual Meeting (Scheduled) \
-May-23  University of Melbourne (Scheduled) \
-Mar-23  University of New South Wales (Scheduled) \
+May-23  MetaLab University of Melbourne (Scheduled) \
+May-23  SOLE Annual Meeting \
+May-23  University of Melbourne \
+Mar-23  University of New South Wales \
 Jan-23  ADRES Université Paris-Dauphine \
 Jan-23  Université Paris-Saclay (cancelled) \
 Jan-23  CREST Paris \
