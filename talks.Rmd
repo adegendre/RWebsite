@@ -6,7 +6,8 @@ title: "Talks"
 
 Aug-23  University of Technology Sydney (Scheduled) \
 Aug-23  University of Queensland (Scheduled) \
-May-23  MetaLab University of Melbourne (Scheduled) \
+May-23  University of Melbourne EdFest \
+May-23  MetaLab University of Melbourne \
 May-23  SOLE Annual Meeting \
 May-23  University of Melbourne \
 Mar-23  University of New South Wales \

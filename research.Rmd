@@ -164,8 +164,29 @@ output:
 
 * [3] **The Impact of Low-Income Priorities Points on School Choice and Student Outcomes**, with <a href="https://sites.google.com/view/shushanikmargaryan" target="_blank">Shushanik Margaryan</a> and <a href="https://sites.google.com/site/josemontalbancastilla/" target="_blank">José Montalban Castilla</a>.
 
+<!-- mobile code --> 
+<details class="collapse-abstract">
+  <summary>Abstract</summary>
+  <p>We estimate the impact of income-based priority points on children’s’ outcomes and parental choices from preschool to Grade 6. With administrative records from Madrid, we use two sharp discontinuities in household income per capita which determine income-based priority points within the Boston mechanism. We first show that income-based priority points change parents’ strategy: low-income parents apply to fewer closer schools and schools with lower absenteeism, while higher-income parents apply to more demanded and higher-scoring schools. The priority points increase the likelihood that children are admitted to their preferred school. Yet, we find economically insignificant effects on standardized test scores 6 years later. Lastly, using a matched survey of parents and children, we find small negative effects on parental and child satisfaction with the school, teachers and peers. Our findings indicate that low and higher-income parents respond in sophisticated but different ways to priority rules under the Boston Mechanism.</p>
+</details> 
+
+<!-- desktop code --> 
+<ul class='bigScreen'>
+**Abstract**: \
+<p>We estimate the impact of income-based priority points on children’s’ outcomes and parental choices from preschool to Grade 6. With administrative records from Madrid, we use two sharp discontinuities in household income per capita which determine income-based priority points within the Boston mechanism. We first show that income-based priority points change parents’ strategy: low-income parents apply to fewer closer schools and schools with lower absenteeism, while higher-income parents apply to more demanded and higher-scoring schools. The priority points increase the likelihood that children are admitted to their preferred school. Yet, we find economically insignificant effects on standardized test scores 6 years later. Lastly, using a matched survey of parents and children, we find small negative effects on parental and child satisfaction with the school, teachers and peers. Our findings indicate that low and higher-income parents respond in sophisticated but different ways to priority rules under the Boston Mechanism.</p>
+</ul>
+
 <ul class='wplists'>
-**Status**: Analyzing new batch of data! \
+**Status**: Analyzing new batch of data & Preparing first draft. Was just presented at SOLE Annual Meeting 2023. \
+</ul> 
+
+
+<br>
+
+* [4] **College Information Provision to Disadvantaged Youth**, with Gloria Chen and <a href="https://siqipan.weebly.com" target="_blank">Siqi Pan</a>.
+
+<ul class='wplists'>
+**Status**: Designing field intervention. \
 </ul>   
 
 <br>
