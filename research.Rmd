@@ -60,17 +60,17 @@ output:
 <!-- mobile code --> 
 <details class="collapse-abstract">
   <summary>Abstract</summary>
-  <p>We study same-sex role model effects of teachers with a meta-analysis and our own study of 3 million students in 90 countries. Both approaches show that role model effects on performance are, on average, small: 0.030 SD in the meta-analysis and 0.015 SD in our multi-country study. Our multi-country study documents larger average role model effects on job preferences (0.063 SD), which are concentrated in rich and gender-equal countries. We also estimate the distribution of role model effects for different education levels and student outcomes. These show that role model effects in secondary education are positive in almost all countries.</p>
+  <p>We study same-sex role model effects of teachers with a meta-analysis and our own study of three million students in 90 countries. Both approaches show that role model effects on performance are, on average, small: 0.030 SD in the meta-analysis and 0.015 SD in our multi-country study. Going beyond test scores, our multi-country study documents larger average role model effects on job preferences (0.063 SD). To understand the universality of these effects, we estimate the distributions of country-level same-sex role model effects. Although role model effects on test scores appear universally small, we find substantial cross-country variation for job preferences, with larger effects in countries with larger gender gaps. These results are consistent with role models inspiring students to overcome gender stereotypes and pursue a STEM career. However, in countries with negligible gender gaps, role models do not seem to have this equalizing function.</p>
 </details> 
 
 <!-- desktop code --> 
 <ul class='bigScreen'>
 **Abstract**: \
-<p>We study same-sex role model effects of teachers with a meta-analysis and our own study of 3 million students in 90 countries. Both approaches show that role model effects on performance are, on average, small: 0.030 SD in the meta-analysis and 0.015 SD in our multi-country study. Our multi-country study documents larger average role model effects on job preferences (0.063 SD), which are concentrated in rich and gender-equal countries. We also estimate the distribution of role model effects for different education levels and student outcomes. These show that role model effects in secondary education are positive in almost all countries.</p>
+<p>We study same-sex role model effects of teachers with a meta-analysis and our own study of three million students in 90 countries. Both approaches show that role model effects on performance are, on average, small: 0.030 SD in the meta-analysis and 0.015 SD in our multi-country study. Going beyond test scores, our multi-country study documents larger average role model effects on job preferences (0.063 SD). To understand the universality of these effects, we estimate the distributions of country-level same-sex role model effects. Although role model effects on test scores appear universally small, we find substantial cross-country variation for job preferences, with larger effects in countries with larger gender gaps. These results are consistent with role models inspiring students to overcome gender stereotypes and pursue a STEM career. However, in countries with negligible gender gaps, role models do not seem to have this equalizing function.</p>
 </ul>
 
 <ul class='wplists'>
-**Draft**: <a href="https://adegendre.github.io/papers/deGendre_et_al_2023_Role_Model_Effects.pdf" target="_blank">University of Zurich Working Paper (March 2023)</a> | <a href="https://www.role-model-effects.com" target="_blank">Website with interactive results</a>
+**Working Paper**: <a href="https://adegendre.github.io/papers/deGendre_et_al_2023_Role_Model_Effects.pdf" target="_blank">University of Zurich Working Paper (June 2023)</a> | <a href="https://www.role-model-effects.com" target="_blank">Website with interactive results</a>
 </ul> 
   
   
