@@ -20,7 +20,7 @@ I am also a Research Affiliate at the <a href="https://www.iza.org" target="_bla
 
 - From June 2023, I am organizing the <span style="text-decoration:underline">*Applied Microeconomics seminar*</span> at the Department of Economics at the University of Melbourne. Please get in touch if you would like to present your work at our seminar! 
 
-- March 2023: **NEW WORKING PAPER** <a href="https://adegendre.github.io/papers/deGendre_et_al_2023_Role_Model_Effects.pdf" target="_blank">*Same-Sex Role Model Effects in Education*</a> + <a href="https://www.role-model-effects.com" target="_blank">Website with interactive results</a>
+- March 2023: **NEW WORKING PAPER** <a href="https://adegendre.github.io/papers/de Gendre Feld Salamanca Zoelitz 2023.pdf" target="_blank">*Same-Sex Role Model Effects in Education*</a> + <a href="https://www.role-model-effects.com" target="_blank">Website with interactive results</a>
 
 - July 2022: I was invited to present my paper <a href="https://adegendre.github.io/papers/deGendre_Lynch_Meunier_Pilkington_Schurer_2021_IZA_dp14693.pdf" target="_blank">*Child Health and Parental Responses to an Unconditional Cash Transfer at Birth*</a> at the NBER Summer Institute. [Slides here](https://adegendre.github.io/papers/de_Gendre_NBER_SI_2022.pdf)
 

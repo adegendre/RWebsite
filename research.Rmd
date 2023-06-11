@@ -70,7 +70,7 @@ output:
 </ul>
 
 <ul class='wplists'>
-**Working Paper**: <a href="https://adegendre.github.io/papers/deGendre_et_al_2023_Role_Model_Effects.pdf" target="_blank">University of Zurich Working Paper (June 2023)</a> | <a href="https://www.role-model-effects.com" target="_blank">Website with interactive results</a>
+**Working Paper**: <a href="https://adegendre.github.io/papers/de Gendre Feld Salamanca Zoelitz 2023" target="_blank">University of Zurich Working Paper No. 438 (June 2023)</a> | <a href="https://www.role-model-effects.com" target="_blank">Website with interactive results</a>
 </ul> 
   
   
