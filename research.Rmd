@@ -157,6 +157,7 @@ output:
 
 <ul class='wplists'>
 **Status**: Draft in preparation. \
+**Other**: Best Paper Award at the 2023 Australian Labour Econometrics Workshop. \
 </ul> 
 
 

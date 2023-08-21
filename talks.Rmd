@@ -4,9 +4,7 @@ title: "Talks"
 
 ### 2023
 
-Aug-23  Australian Labour Econometrics Workshop (LEW 2023) (Scheduled) \
-Aug-23  University of Technology Sydney (Scheduled) \
-Aug-23  University of Queensland (Scheduled) \
+Aug-23  University of Technology Sydney \
 May-23  University of Melbourne EdFest \
 May-23  MetaLab University of Melbourne \
 May-23  SOLE Annual Meeting \
