@@ -7,7 +7,7 @@ title: ""
   <img src="files/AdG_ID.png" style="width:50%">
 </div>
 
-I am the 2022 McKenzie Postdoctoral Research Fellow at <a href="https://fbe.unimelb.edu.au/economics" target="_blank">the Department of Economics at the University of Melbourne</a>.\ 
+I am a 2022 McKenzie Postdoctoral Research Fellow at <a href="https://fbe.unimelb.edu.au/economics" target="_blank">the Department of Economics at the University of Melbourne</a>.\ 
 
 I am an economist interested in **education economics** and **applied micro-econometrics**. I study natural experiments using observational data and administrative records, to understand the **causes and consequences of socioeconomic disadvantage in the formation of human capital**. I investigate how children's educational outcomes are shaped by **families responding** to their **social environment in education** (e.g. teachers, peers) and to **welfare policies**.\  
 
