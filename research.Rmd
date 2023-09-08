@@ -2,13 +2,14 @@
 title: "Research"
 output: 
   html_document:
+    self-contained: no
     toc: true
     toc_float: true
     toc_depth: 3
 ---
 
 
-## Papers Submitted and Under Review
+## Working Papers
 
 * [1] **On the Mechanisms of Ability Peer Effects**, with <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">Nicolás Salamanca</a>.\
 

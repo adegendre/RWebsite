@@ -1,13 +1,13 @@
 ---
 # Site settings
 name:           "Alexandra de Gendre"
-output_dir: "."
+output_dir:     "."
 description:    "Postdoctoral Research Fellow in Economics, The University of Sydney"
 url:            "https://adegendre.github.io"
 
 navbar:
   title: "Alexandra de Gendre"
-  left:
+  right:
     - text: "Research"
       href: research.html
     - text: "Talks"
