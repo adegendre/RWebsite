@@ -34,6 +34,7 @@ output:
 
 <br>
 
+
 * [2] **Child Health and Parental Responses to an Unconditional Cash Transfer at Birth**, with John Lynch, Aurélie Meunier, Rhiannon Pilkington, and <a href="http://www.stefanie-schurer.com" target="_blank">Stefanie Schurer</a>.\
 
 <!-- mobile code --> 
@@ -54,6 +55,7 @@ output:
 **Talks**: Was presented at SOLE Meeting in Philadelphia in May 2023. 
 </ul>
 
+
 <br>
 
 
@@ -73,7 +75,6 @@ output:
 
 <ul class='wplists'>
 **Working Paper**: <a href="https://adegendre.github.io/papers/deGendre_Feld_Salamanca_Zoelitz_2023.pdf" target="_blank">University of Zurich Working Paper No. 438 (June 2023)</a> | <a href="https://www.role-model-effects.com" target="_blank">Website with interactive results</a>\
-**Talks**: Will be presented at CesIfo Area Conference in Education in Munich in September 2023. 
 </ul> 
   
   
@@ -142,32 +143,34 @@ output:
 **Draft**: <a href="https://adegendre.github.io/papers/de_Gendre_2021_JMP_Class_Rank_and_Sibling_Spillover_Effects.pdf" target="_blank">JMP version (31 August 2022)</a> \
 </ul>
 
+
 <br>
+
 
 * [2] **Cultural Integration in the Classroom: The Role of Parents and Teachers**, with <a href="https://sites.google.com/site/kkarbownik/home?authuser=0" target="_blank">Krzysztof (Chris) Karbownik</a>, <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">Nicolás Salamanca</a> and <a href="https://sites.google.com/site/yvesbzenou" target="_blank">Yves Zenou</a>.
 
 <!-- mobile code --> 
 <details class="collapse-abstract">
   <summary>Abstract</summary>
-  <p>The integration of ethnic minority students in the classroom could change the behaviors of ethnic majority students and their parents, as well as that of their teachers. Using random assignment of children to classrooms in Taiwanese middle schools, we show that exposure to Indigenous but not Hakka minorities lowers test scores of the ethnic majority students. These negative effects are primarily due to endogenous responses of parents and teachers rather than students’ correlated characteristics or responses.</p>
+  <p>We develop and empirically test a theory of integration of minorities in the classroom that incorporates endogenous responses of majority students, their parents, and teachers in these classrooms. Using a unique policy that randomly assigns children to classrooms in Taiwanese middle schools and rich survey data, we show that exposure to Indigenous students lowers the test scores of the majority students. These negative effects are primarily due to the aforementioned endogenous responses rather than direct peer effects. Our theory and results highlights the limitations of the reduced-form interpretation of commonly used linear-in-means peer effect models.</p>
 </details> 
 
 <!-- desktop code --> 
 <ul class='bigScreen'>
 **Abstract**: \
-<p>The integration of ethnic minority students in the classroom could change the behaviors of ethnic majority students and their parents, as well as that of their teachers. Using random assignment of children to classrooms in Taiwanese middle schools, we show that exposure to Indigenous but not Hakka minorities lowers test scores of the ethnic majority students. These negative effects are primarily due to endogenous responses of parents and teachers rather than students’ correlated characteristics or responses.</p>
+<p>We develop and empirically test a theory of integration of minorities in the classroom that incorporates endogenous responses of majority students, their parents, and teachers in these classrooms. Using a unique policy that randomly assigns children to classrooms in Taiwanese middle schools and rich survey data, we show that exposure to Indigenous students lowers the test scores of the majority students. These negative effects are primarily due to the aforementioned endogenous responses rather than direct peer effects. Our theory and results highlights the limitations of the reduced-form interpretation of commonly used linear-in-means peer effect models.</p>
 </ul>
 
 <ul class='wplists'>
 **Status**: Draft in preparation. \
-**Talks**: Was presented at CESIfo Area Conference in Education in Munich in September 2022 and at the Australian Labour Econometrics Workshop in August 2023.  \
 **Other**: Best Paper Award at the 2023 Australian Labour Econometrics Workshop. \
 </ul> 
 
 
 <br>
 
-* [3] **The Impact of Low-Income Priorities Points on School Choice and Student Outcomes**, with <a href="https://sites.google.com/view/shushanikmargaryan" target="_blank">Shushanik Margaryan</a> and <a href="https://sites.google.com/site/josemontalbancastilla/" target="_blank">José Montalban Castilla</a>.
+
+* [3] **Affirmative Action during Early Childhood: School Choice, Academic Performance and School Satisfaction**, with <a href="https://sites.google.com/view/shushanikmargaryan" target="_blank">Shushanik Margaryan</a> and <a href="https://sites.google.com/site/josemontalbancastilla/" target="_blank">José Montalban Castilla</a>.
 
 <!-- mobile code --> 
 <details class="collapse-abstract">
@@ -183,17 +186,40 @@ output:
 
 <ul class='wplists'>
 **Status**: First draft coming soon. \
-**Talks**: Was presented at SOLE Meeting in Philadelphia in May 2023 and at the Workshop on the Economics of Education in Chile in August 2023. 
 </ul> 
 
 
 <br>
 
-* [4] **College Information Provision to Disadvantaged Youth**, with Gloria Chen and <a href="https://siqipan.weebly.com" target="_blank">Siqi Pan</a>.
+
+* [4] **How do teachers respond to smaller classes? Evidence and implications for student learning**, with <a href="https://sites.google.com/site/josemontalbancastilla/" target="_blank">José Montalban Castilla</a> and <a href="https://sites.google.com/site/pierredeschampsecon/home" target="_blank">Pierre Deschamps</a>.
+
+<!-- mobile code --> 
+<details class="collapse-abstract">
+  <summary>Abstract</summary>
+  <p>This paper studies how teachers respond to smaller classes and how these responses impact student achievement in the Region of Madrid (Spain), a region of over 1 million school-aged children and 3,000 schools. We exploit the maximum class size rule that generates sharp discontinuities in the relationship between school enrollment and average class size. We estimate the impact of class size reductions on teacher responses and student test scores using regression discontinuity models. We link data covering three key elements at the classroom level: administrative data on student enrollments, administrative data on student test scores and information on teacher responses from teacher survey data covering the universe of teachers and containing rich information on their classroom activities. Our findings shed light on the mechanisms that explain how class size reductions can enhance student learning.</p>
+</details> 
+
+<!-- desktop code --> 
+<ul class='bigScreen'>
+**Abstract**: \
+<p>This paper studies how teachers respond to smaller classes and how these responses impact student achievement in the Region of Madrid (Spain), a region of over 1 million school-aged children and 3,000 schools. We exploit the maximum class size rule that generates sharp discontinuities in the relationship between school enrollment and average class size. We estimate the impact of class size reductions on teacher responses and student test scores using regression discontinuity models. We link data covering three key elements at the classroom level: administrative data on student enrollments, administrative data on student test scores and information on teacher responses from teacher survey data covering the universe of teachers and containing rich information on their classroom activities. Our findings shed light on the mechanisms that explain how class size reductions can enhance student learning.</p>
+</ul>
+
+<ul class='wplists'>
+**Status**: Preliminary results.\ 
+</ul> 
+
+
+<br>
+
+
+* [5] **College Information Provision to Disadvantaged Youth**, with Gloria Chen and <a href="https://siqipan.weebly.com" target="_blank">Siqi Pan</a>.
 
 <ul class='wplists'>
 **Status**: Designing field intervention and recruiting participants in the field.\
 </ul>   
+
 
 <br>
 
