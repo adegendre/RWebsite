@@ -147,7 +147,7 @@ output:
 <br>
 
 
-* [2] **Cultural Integration in the Classroom: The Role of Parents and Teachers**, with <a href="https://sites.google.com/site/kkarbownik/home?authuser=0" target="_blank">Krzysztof (Chris) Karbownik</a>, <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">Nicolás Salamanca</a> and <a href="https://sites.google.com/site/yvesbzenou" target="_blank">Yves Zenou</a>.
+* [2] **Integrating Minorities in the Classroom: The Role of Students, Parents and Teachers**, with <a href="https://sites.google.com/site/kkarbownik/home?authuser=0" target="_blank">Krzysztof (Chris) Karbownik</a>, <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">Nicolás Salamanca</a> and <a href="https://sites.google.com/site/yvesbzenou" target="_blank">Yves Zenou</a>.
 
 <!-- mobile code --> 
 <details class="collapse-abstract">
