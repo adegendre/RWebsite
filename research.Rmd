@@ -192,7 +192,7 @@ output:
 <br>
 
 
-* [4] **How do teachers respond to smaller classes? Evidence and implications for student learning**, with <a href="https://www.damonclark.net" target="_blank">Damon Clark, <a href="https://sites.google.com/site/josemontalbancastilla/" target="_blank">José Montalban Castilla</a> and <a href="https://sites.google.com/site/pierredeschampsecon/home" target="_blank">Pierre Deschamps</a>.
+* [4] **How do teachers respond to smaller classes? Evidence and implications for student learning**, with <a href="https://www.damonclark.net" target="_blank">Damon Clark, <a href="https://sites.google.com/site/pierredeschampsecon/home" target="_blank">Pierre Deschamps</a>, and <a href="https://sites.google.com/site/josemontalbancastilla/" target="_blank">José Montalban Castilla</a>.
 
 <!-- mobile code --> 
 <details class="collapse-abstract">
