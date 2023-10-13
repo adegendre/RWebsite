@@ -9,16 +9,25 @@ title: ""
 
 I am a 2022 McKenzie Postdoctoral Research Fellow at <a href="https://fbe.unimelb.edu.au/economics" target="_blank">the Department of Economics at the University of Melbourne</a>.\ 
 
-I am an economist interested in **education economics** and **applied micro-econometrics**. I study natural experiments using observational data and administrative records, to understand the **causes and consequences of socioeconomic disadvantage in the formation of human capital**. I investigate how children's educational outcomes are shaped by **families responding** to their **social environment in education** (e.g. teachers, peers) and to **welfare policies**.\  
+I am an economist interested in **applied micro-econometrics** and **human capital** formation through education and health. I study how children’s human capital is shaped by their parents, teachers, and peers. I am also interested in how parental responses to education and welfare policies affect children's outcomes.\
+
+
+I am affiliated with: \
+- <a href="https://fbe.unimelb.edu.au/economics" target="_blank">The Department of Economics at the University of Melbourne</a> since February 2022 \
+- <a href="https://www.iza.org/person/26418/alexandra-de-gendre" target="_blank">IZA Institute of Labor Economics</a>  since July 2018 \
+- <a href="https://lifecoursecentre.org.au/members/dr-alexandra-de-gendre/" target="_blank">Australian Research Council (ARC) Centre of Excellence for Children and Families over the Life Course (LCC)</a> since May 2018 \
+
 
 Before joining the University of Melbourne, I was a postdoctoral Research Associate at <a href="https://www.sydney.edu.au/arts/schools/school-of-economics.html" target="_blank">the University of Sydney</a>. I received my Ph.D. in Economics from Maastricht University in the Netherlands in March 2021, where I was supervised by <a href="https://sites.google.com/site/oliviermarie/" target="_blank">Prof. Olivier Marie</a>. I hold a M.Sc. degree in Statistics from <a href="http://ensai.fr/en/" target="_blank">Ensai</a> in France, and a M.Sc. in Economics from <a href="https://www.wiwi.hu-berlin.de/en/mainpage" target="_blank">Humboldt University</a> in Germany.\
-
-I am also a Research Affiliate at the <a href="https://www.iza.org" target="_blank">IZA Institute of Labor Economics</a>  since July 2018, and a Research Affiliate at the <a href="https://www.lifecoursecentre.org.au" target="_blank">ARC Centre of Excellence for Children and Families over the Life Course (LCC)</a> since May 2018. \
 
 
 ### News 
 
-- March 2023: **NEW WORKING PAPER** <a href="https://adegendre.github.io/papers/deGendre_Feld_Salamanca_Zoelitz_2023.pdf" target="_blank">*Same-Sex Role Model Effects in Education*</a> + <a href="https://www.role-model-effects.com" target="_blank">Website with interactive results</a>
+- October 2023: **New working paper** <a href="https://adegendre.github.io/papers/deGendre_Feld_Salamanca_Oct2023.pdf" target="_blank">*Re-examining the relationship between patience, risk-taking, and human capital investment across countries*</a>
+
+- October 2023: **Updated working paper** <a href="https://adegendre.github.io/papers/deGendre_Lynch_Meunier_Pilkington_Schurer_Oct2023.pdf" target="_blank">*Child Health and Parental Responses to an Unconditional Cash Transfer at Birth*</a>
+
+- March 2023: **New working paper** <a href="https://adegendre.github.io/papers/deGendre_Feld_Salamanca_Zoelitz_2023.pdf" target="_blank">*Same-Sex Role Model Effects in Education*</a> + <a href="https://www.role-model-effects.com" target="_blank">Website with interactive results</a>
 
 - July 2022: I was invited to present my paper <a href="https://adegendre.github.io/papers/deGendre_Lynch_Meunier_Pilkington_Schurer_2021_IZA_dp14693.pdf" target="_blank">*Child Health and Parental Responses to an Unconditional Cash Transfer at Birth*</a> at the NBER Summer Institute. [Slides here](https://adegendre.github.io/papers/de_Gendre_NBER_SI_2022.pdf)
 
