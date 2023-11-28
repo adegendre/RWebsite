@@ -2,7 +2,24 @@
 title: "Resources"
 ---
 
-On this page I share some resources that I found useful in some way or another. 
+On this page I share some resources that I found useful in some way or another. This page is work in progress, I add sections and resources as I find them. 
+
+
+### Replicability and reproducibility
+
+This is a new topic that I find particularly important. I was lucky to have peers at Maastricht Uni with whom I could have great discussions about research practices, ethics and how to do our research the best we could -- big shoutout to <a href="https://sites.google.com/view/henrikzaunbrecher" target="_blank">Henrik Zaunbrecher</a> and to my amazing coauthors <a href="https://janfeld.weebly.com" target="_blank">Jan Feld</a>, <a href="https://sites.google.com/view/nsalamanca/home" target="_blank">Nicolás Salamanca</a> and <a href="http://ulfzoelitz.com" target="_blank">Ulf Zölitz</a>. We talked a lot about the *replication crisis* and the issue that null-effects papers are less likely to ever be accepted for publication. Here are some resources I've found over the years that have nourished my thoughts on this topic, and have helped me progress in my own practices.
+
+- This book <a href="http://emiguel.econ.berkeley.edu/books/transparent-and-reproducible-social-science-research/" target="_blank">**Transparent and Reproducible Social Science Research**</a> by Garret Christensen, Jeremy Freese, and Edward Miguel. A fantastic introduction into the issues of the replicability problems, the incentive problems in modern science and practical advice to improve our research practices to move forward collectively. It's also a relatively quick and easy read.\
+
+- <a href="https://i4replication.org" target="_blank">**The Institute for Replication**</a> is a research lab led by Abel Brodeur and his team. They do amazing work to normalize replications, increase awareness around the need for replicating papers, and improving researchers' incentives to replicate the work of others and make their own work more replicable. They have tons of teaching resources to transmit best practices to students, check out their website!\
+
+
+<!-- ### Academic writing (especially in economics) -->
+
+
+
+<!-- ### Presentations -->
+
 
 
 ### Making a website using RMarkdown 
