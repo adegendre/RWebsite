@@ -25,6 +25,12 @@ Writing is a core part of our work as academics; I am always surprised to hear m
 - the one and only <a href="https://www.amazon.com/Economical-Writing-Third-Thirty-Five-Persuasive-dp-022644807X/dp/022644807X/ref=dp_ob_title_bk" target="_blank">**Economical Writing**</a> by Deirdre McCloskey and Stephen Ziliak. This book is beautifully written, insightful and hilarious! I love their tip about writing down ideas on single pieces of paper or postits and playing with the order, and the tip about cutting every third word when polishing a text. 
 
 
+<!-- ### Datasets -->
+
+
+<!-- ### Coding Ethiquette and other Programming Tips (Stata, R, Python) -->
+
+
 <!-- ### Presentations -->
 
 
