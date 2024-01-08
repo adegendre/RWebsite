@@ -56,7 +56,7 @@ output:
 <br>
 
 
-* [3] **Child Health and Parental Responses to an Unconditional Cash Transfer at Birth** (*Under review*), with John Lynch, Aurélie Meunier, Rhiannon Pilkington, and <a href="http://www.stefanie-schurer.com" target="_blank">Stefanie Schurer</a>.\
+* [3] **Child Health and Parental Responses to an Unconditional Cash Transfer at Birth** (*Revise and Resubmit* at the *Review of Economics and Statistics*), with John Lynch, Aurélie Meunier, Rhiannon Pilkington, and <a href="http://www.stefanie-schurer.com" target="_blank">Stefanie Schurer</a>.\
 
 <!-- mobile code --> 
 <details class="collapse-abstract">
