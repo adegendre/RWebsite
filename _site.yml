@@ -1,7 +1,8 @@
 ---
 # Site settings
 name:           "Alexandra de Gendre"
-output_dir:     "."
+type:           "website"
+output_dir:     "docs"
 description:    "McKenzie Postdoctoral Research Fellow in Economics, The University of Melbourne"
 url:            "https://adegendre.github.io"
 
