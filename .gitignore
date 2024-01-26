@@ -3,5 +3,7 @@
 .RData
 .Ruserdata
 .DS_Store
+.Rapp.history
 files/.DS_Store
 papers/.DS_Store
+.DS_Store
